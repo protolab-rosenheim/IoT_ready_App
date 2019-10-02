@@ -1,0 +1,11 @@
+page-cut-orders {
+    .full-height {
+        height: 100%;
+    }
+    .decimated-height {
+        height: calc(100% - 36px);
+    }
+    ion-scroll>div.scroll-content {
+        padding: 0px !important;
+    }
+}

@@ -1,0 +1,10 @@
+<ion-card (click)="onOrderSelected(order)">
+  <ion-card-header>
+    {{ order.customer_order }}
+  </ion-card-header>
+  <ion-card-content>
+    <p>Kunde: {{order.customer}}</p>
+    <p>Lieferdatum: {{order.delivery_date | date}}</p>
+    <p>{{order.assembly_groups.length}} Positionen</p>
+  </ion-card-content>
+</ion-card>

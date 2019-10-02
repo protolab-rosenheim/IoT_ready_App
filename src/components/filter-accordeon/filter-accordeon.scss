@@ -1,0 +1,30 @@
+filter-accordeon {
+    .list-header {
+        width: 95%;
+    }
+    .list-header .label {
+        margin-top: 10px;
+    }
+    .grid {
+        padding: 0px;
+    }
+    .col {
+        padding: 0px;
+    }
+    .row {
+        padding: 0px;
+    }
+    .item {
+        padding: 0px;
+        min-height: 0px;
+    }
+    .item-inner {
+        border-bottom: none !important;
+    }
+    .label {
+        font-size: 14px;
+    }
+    .active {
+        color: map-get($colors, primary);
+    }
+}

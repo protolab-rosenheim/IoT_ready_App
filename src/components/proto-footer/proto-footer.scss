@@ -1,0 +1,71 @@
+proto-footer {
+    .button-outline {
+        font-weight: bold;
+    }
+    display: block;
+    background-color: $toolbar-background;
+    height: 50px;
+    .title {
+        font-size: 2rem;
+    }
+    .navigation {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 60px;
+        align-items: center;
+        margin: 0;
+        .item {
+            list-style-type: none;
+            color: white;
+            font-size: 1.8rem;
+            &:hover {
+                color: map-get($colors, primary);
+            }
+        }
+    }
+    @media (max-width: 767px) {
+        .navigation {
+            padding-right: 12px;
+        }
+    }
+    @media (min-height: 26em) {
+        .title {
+            color: $toolbar-background;
+            transform-origin: top left;
+            transform: rotate(-90deg);
+            position: absolute;
+            bottom: 45px;
+            left: 20px;
+        }
+        .line {
+            position: absolute;
+            background-color: map-get($colors, light);
+            bottom: 0;
+            left: 45px;
+            height: 200px;
+            width: 8px;
+        }
+        .double-circle {
+            border-radius: 100%;
+            background-color: white;
+            border: 8px solid map-get($colors, light);
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            left: 33px;
+            bottom: 190px;
+            z-index: 1;
+        }
+    }
+    @media (max-height: 26em) {
+        position: relative;
+        .title {
+            display: none;
+        }
+        .navigation {
+            padding-left: 0;
+        }
+    }
+}

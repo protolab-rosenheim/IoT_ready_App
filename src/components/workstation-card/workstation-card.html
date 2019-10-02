@@ -1,0 +1,9 @@
+<ion-card>
+    <ion-card-header>
+      {{ station.name }} {{ station.side ? 'Seite ' + station.side : '' }}
+    </ion-card-header>
+    <ion-item>
+      <button ion-button item-right *ngIf="station.type === 'tower'" (click)="workstationTapped(station)">Konfigurieren</button>
+      <button ion-button item-right color="danger" (click)="onRemove(station)">Entfernen</button>
+    </ion-item>
+  </ion-card>

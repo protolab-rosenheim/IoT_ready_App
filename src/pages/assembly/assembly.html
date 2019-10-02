@@ -1,0 +1,26 @@
+<ion-header>
+  <proto-header title="Montieren" isLineSolid="true"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+
+  <div class="rows">
+    <div class="small-width">
+      <ion-list>
+        <button ion-item block detail-none *ngFor="let group of shownAsseblyGroups" (click)="groupTapped($event, group)"
+          [class.selected]="group?.group_id == selectedAssemblyGroup?.group_id">
+          Position {{group.part_mapping}}
+        </button>
+      </ion-list>
+    </div>
+    <div class="big-width hidden-md-down">
+      <div class="three-container">
+        <three #three [highlightingEnabled]="true" (objectSelected)="objectSelectedEvent($event)"></three>
+      </div>
+    </div>
+  </div>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Montage"></proto-footer>
+</ion-footer>

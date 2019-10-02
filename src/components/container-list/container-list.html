@@ -1,0 +1,21 @@
+<div class="row scrollContainer">
+  <div class="column">
+    <div>
+      <button ion-button icon-only (click)="addContainer('Container')">
+        <ion-icon name="add"></ion-icon>
+        <ion-icon name="custom-Container"></ion-icon>
+      </button>
+    </div>
+    <div>
+      <button ion-button icon-only (click)="addContainer('Flachwagen')">
+        <ion-icon name="add"></ion-icon>
+        <ion-icon name="custom-Flachwagen"></ion-icon>
+      </button>
+    </div>
+  </div>
+
+  <div class="row scroll">
+    <container-dropzone *ngFor="let container of containers" [container]="container" [iconName]="'custom-' + container.type">
+    </container-dropzone>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+<ion-header>
+  <proto-header title="Arbeitsplatz einrichten" isLineSolid="true"></proto-header>
+</ion-header>
+
+<ion-content no-bounce padding-horizontal>
+  <div class="align-center">
+    <button ion-button (click)="scanTapped(event)">
+      <ion-icon name="custom-barcodescanner"></ion-icon>
+      Modul scannen
+    </button>
+  </div>
+
+  <div *ngIf="! workstations || workstations?.length === 0">
+    <h2>
+      Zur Zeit sind ihrem Arbeitsplatz keine Module zugewiesen
+    </h2>
+    <h4>
+      Scannen sie ein Modul, um es ihrem Arbeitsplatz hinzuzufügen
+    </h4>
+  </div>
+
+  <div class="flex-wrap">
+    <div *ngFor="let station of workstations" class="custom-item">
+      <workstation-card [station]="station" (onRemoveClicked)="removeWorkstation(station)"></workstation-card>
+    </div>
+  </div>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Montage"></proto-footer>
+</ion-footer>

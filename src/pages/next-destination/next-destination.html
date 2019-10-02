@@ -1,0 +1,33 @@
+<!--
+  Generated template for the NextDestinationPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>Wählen Sie das nächste Ziel aus</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <div class="container">
+    <div class="rows">
+      <div class="grow" *ngFor="let destination of destinations; let i = index" (click)="nextIndex = i">
+        <div class="above-circle">
+          <h6 class="align-center">{{destination.name}}</h6>
+        </div>
+        <div class="line" [class.visited-line]="i <= currentIndex" [class.active-line]="currentIndex < i && i <= nextIndex"></div>
+        <div class="double-circle" [class.visited-circle]="i <= currentIndex" [class.active-circle]="currentIndex < i && i <= nextIndex"></div>
+      </div>
+    </div>
+
+    <div class="align-end">
+      <button ion-button outline (click)="onCancel()">Abbrechen</button>
+      <button ion-button (click)="onAccept()" [disabled]="nextIndex === undefined || nextIndex <= currentIndex">Bestätigen</button>
+    </div>
+  </div>
+
+</ion-content>

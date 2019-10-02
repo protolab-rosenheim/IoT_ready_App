@@ -1,0 +1,8 @@
+page-drill {
+    ion-scroll {
+        height: calc(100% - 44px);
+    }
+    ion-scroll>div.scroll-content {
+        padding: 0px !important;
+    }
+}

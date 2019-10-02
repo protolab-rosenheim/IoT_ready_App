@@ -1,0 +1,245 @@
+[
+    {
+        "assembly_groups": [
+            {
+                "assembled": false,
+                "group_id": 1,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 5
+            },
+            {
+                "assembled": false,
+                "group_id": 2,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 36
+            },
+            {
+                "assembled": false,
+                "group_id": 3,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 6
+            },
+            {
+                "assembled": false,
+                "group_id": 4,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 4
+            },
+            {
+                "assembled": false,
+                "group_id": 5,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 35
+            },
+            {
+                "assembled": false,
+                "group_id": 6,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 2
+            },
+            {
+                "assembled": false,
+                "group_id": 7,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 3
+            },
+            {
+                "assembled": false,
+                "group_id": 8,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 9
+            },
+            {
+                "assembled": false,
+                "group_id": 9,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 10
+            },
+            {
+                "assembled": false,
+                "group_id": 10,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 8
+            },
+            {
+                "assembled": false,
+                "group_id": 11,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 11
+            },
+            {
+                "assembled": false,
+                "group_id": 12,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 1
+            },
+            {
+                "assembled": false,
+                "group_id": 13,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 7
+            },
+            {
+                "assembled": false,
+                "group_id": 14,
+                "group_name": "",
+                "order_id": 1,
+                "part_mapping": 12
+            }
+        ],
+        "customer": "Jochen Paul",
+        "customer_order": "P22_Protolab_Demokueche",
+        "delivery_date": "2018-06-18T00:00:00",
+        "expected_time_extern_h": null,
+        "expected_time_manufacturing_h": null,
+        "expected_time_montage_h": null,
+        "expected_time_surface_h": null,
+        "id": 1,
+        "owner": null,
+        "project": null,
+        "shipping_date": null,
+        "status": "created",
+        "virtual_carriages": []
+    },
+    {
+        "assembly_groups": [
+            {
+                "assembled": false,
+                "group_id": 15,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 5
+            },
+            {
+                "assembled": false,
+                "group_id": 16,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 36
+            },
+            {
+                "assembled": false,
+                "group_id": 17,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 6
+            },
+            {
+                "assembled": false,
+                "group_id": 18,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 4
+            },
+            {
+                "assembled": false,
+                "group_id": 19,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 35
+            },
+            {
+                "assembled": false,
+                "group_id": 20,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 2
+            },
+            {
+                "assembled": false,
+                "group_id": 21,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 3
+            },
+            {
+                "assembled": false,
+                "group_id": 22,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 9
+            },
+            {
+                "assembled": false,
+                "group_id": 23,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 10
+            },
+            {
+                "assembled": false,
+                "group_id": 24,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 8
+            },
+            {
+                "assembled": false,
+                "group_id": 25,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 11
+            },
+            {
+                "assembled": false,
+                "group_id": 26,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 1
+            },
+            {
+                "assembled": false,
+                "group_id": 27,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 7
+            },
+            {
+                "assembled": false,
+                "group_id": 28,
+                "group_name": "",
+                "order_id": 7477,
+                "part_mapping": 12
+            }
+        ],
+        "customer": "Michael Speer",
+        "customer_order": "Fa. K\u00fcchenfix",
+        "delivery_date": "2018-12-20T00:00:00",
+        "expected_time_extern_h": 0,
+        "expected_time_manufacturing_h": 8,
+        "expected_time_montage_h": 28,
+        "expected_time_surface_h": 7,
+        "id": 7477,
+        "owner": "Susanne Sales",
+        "project": "Fa. K\u00fcchenfix",
+        "shipping_date": null,
+        "status": "shreddered",
+        "virtual_carriages": [
+            {
+                "id": 32,
+                "name": "Container 1",
+                "order_id": 7477,
+                "type": "Container"
+            },
+            {
+                "id": 33,
+                "name": "Flachwagen 1",
+                "order_id": 7477,
+                "type": "Flachwagen"
+            }
+        ]
+    }
+]

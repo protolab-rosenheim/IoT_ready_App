@@ -1,0 +1,23 @@
+<ion-header>
+  <proto-header title="Sortieren"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+
+  <button ion-button icon-end full>
+    Sortierung mit Roboter starten
+    <ion-icon name="custom-robot"></ion-icon>
+  </button>
+
+  <button ion-button icon-end full>
+    Manuelle Sortierung starten
+    <ion-icon name="custom-glove"></ion-icon>
+  </button>
+
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Teilefertigung" buttonTextCarriage="Wagen abholen" buttonTextReorder="Teil nachbestellen"
+    (buttonCarriagePressed)="onFetchCarriageClick($event)" (buttonReorderPressed)="onReorderPartClick($event)">
+  </proto-footer>
+</ion-footer>

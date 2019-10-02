@@ -1,0 +1,13 @@
+page-assembly-detail {
+    .container {
+        display: flex;
+    }
+    .columns {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+    }
+    .three-container {
+        height: 310px;
+    }
+}

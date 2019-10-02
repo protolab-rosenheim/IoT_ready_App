@@ -1,0 +1,53 @@
+page-next-destination {
+    .scroll-content {
+        overflow: hidden;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    .rows {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        margin-bottom: 32px;
+    }
+    .grow {
+        width: 100px;
+    }
+    .line {
+        position: relative;
+        background-color: map-get($colors, light);
+        height: 8px;
+        width: 75px;
+    }
+    .align-center {
+        text-align: center;
+    }
+    .double-circle {
+        border-radius: 100%;
+        background-color: white;
+        border: 8px solid map-get($colors, light);
+        width: 30px;
+        height: 30px;
+        position: relative;
+        left: 70px;
+        transform: translateY(-66%);
+        z-index: 1;
+    }
+    .above-circle {
+        position: relative;
+    }
+    .visited-circle {
+        border-color: map-get($colors, dark);
+    }
+    .visited-line {
+        background-color: map-get($colors, dark);
+    }
+    .active-circle {
+        border-color: map-get($colors, primary);
+    }
+    .active-line {
+        background-color: map-get($colors, primary);
+    }
+}

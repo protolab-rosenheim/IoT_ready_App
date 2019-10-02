@@ -1,0 +1,34 @@
+[
+	{
+		"type": "group",
+		"title": "Common",
+		"items": [
+			{
+				"title": "Proglove IP",
+				"type": "textfield",
+				"key": "ProgloveUrl"
+			},
+			{
+				"title": "Webservice IP",
+				"type": "textfield",
+				"key": "WebserviceUrl"
+			},
+			{
+				"title": "Shredder IP",
+				"type": "textfield",
+				"key": "ShredderUrl"
+			},
+			{
+				"title": "BHX IP",
+				"type": "textfield",
+				"key": "BhxUrl"
+			},
+			{
+				"title": "DemoData Toggle",
+				"key": "DemoDataToggle",
+				"type": "toggle",
+				"default": true
+			}
+		]
+	}
+]

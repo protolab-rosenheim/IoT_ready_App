@@ -1,0 +1,39 @@
+<ion-header>
+  <proto-header title="Auftrag shreddern" subTitle="Auftrag {{ order.customer_order }}"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+  <div class="rows">
+    <div class="column small-width hidden-md-down">
+      <button ion-button (click)="clearAllFilters()" class="center">Alle Filter aufheben</button>
+      <filter-accordeon *ngIf="filters" [headerText]="'Position'" [filterProperty]="'part_mapping'" [filters]="filters"
+        [columnsCount]="4" (onFilterChanged)="onFilterChanged($event)"></filter-accordeon>
+      <filter-accordeon *ngIf="filters" [headerText]="'Bezeichnung'" [filterProperty]="'description'" [filters]="filters"
+        [columnsCount]="2" (onFilterChanged)="onFilterChanged($event)"></filter-accordeon>
+    </div>
+    <div class="column big-width">
+      <div>
+        <button ion-button color="dark" clear>
+          {{shownParts.length}} von {{parts.length | i18nPlural: messagePluralMap}} angezeigt
+        </button>
+        <button ion-button (click)="undoLast()" [disabled]="!history.canUndo()">Rückgängig</button>
+      </div>
+      <div class="container">
+        <part-list [hidden]="!showList" [shownParts]="shownParts" [selectedParts]="selectedParts"></part-list>
+        <three-part-list [hidden]="showList" [parts]="parts" [shownParts]="shownParts" [selectedParts]="selectedParts"></three-part-list>
+        <ion-fab>
+          <button ion-fab (click)="showList = !showList">
+            <ion-icon [name]="(showList)?'cube-outline':'list'"></ion-icon>
+          </button>
+        </ion-fab>
+      </div>
+      <div>
+        <container-list #containerList></container-list>
+      </div>
+    </div>
+  </div>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Planung" buttonTextShredder="Speichern" (buttonShredderPressed)="onDone($event)"></proto-footer>
+</ion-footer>

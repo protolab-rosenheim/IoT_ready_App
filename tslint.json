@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "tslint-ionic-rules/strict",
+    "tslint-sonarts"
+  ],
+  "rules": {
+    "linebreak-style": false,
+    "align": false,
+    "no-useless-cast": false,
+    "no-big-function": [
+      true,
+      40
+    ],
+    "no-floating-promises": false,
+    "no-unnecessary-type-assertion": false,
+    "trailing-comma": false
+  }
+}

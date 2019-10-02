@@ -1,0 +1,66 @@
+proto-header {
+    .toolbar-md {
+        padding: 0;
+    }
+    .toolbar-background {
+        background-color: $toolbar-background;
+    }
+    .toolbar-content {
+        width: 100%;
+        color: white;
+    }
+    .back-button {
+        position: absolute;
+        top: 15%;
+    }
+    .back-button-icon {
+        font-size: 4rem;
+    }
+    .bar-button-default-md {
+        color: white;
+    }
+    .ion-md-arrow-back:before {
+        content: '\f3cf';
+    }
+    .title {
+        text-align: right;
+        text-transform: uppercase;
+        font-size: 4.5rem;
+        padding: 10px 130px 0 0;
+    }
+    @media (max-width: 767px) {
+        .title {
+            padding: 0 12px 0 0;
+            font-size: 2.5rem;
+        }
+    }
+    .sub-title {
+        font-size: 1.8rem;
+        padding: 30px 125px 0 0;
+        text-align: right;
+        min-height: 60px;
+    }
+    .line {
+        position: absolute;
+        height: 15px;
+        background-color: white;
+        left: 0;
+        right: 100px;
+        &.solid {
+            left: auto;
+            right: 0;
+            width: 100px;
+        }
+    }
+    .double-circle {
+        border-radius: 100%;
+        background-color: $toolbar-background;
+        border: 10px solid white;
+        width: 55px;
+        height: 55px;
+        position: absolute;
+        right: 60px;
+        transform: translateY(-37%);
+        z-index: 1;
+    }
+}

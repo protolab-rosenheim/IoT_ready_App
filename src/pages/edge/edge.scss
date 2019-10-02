@@ -1,0 +1,38 @@
+page-edge {
+    .container {
+        display: flex;
+    }
+    .card {
+        width: 100%;
+        margin: 0px;
+    }
+    .columns-nowrap {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: 95%;
+    }
+    .small-width {
+        flex: 0 1 30%;
+        align-content: flex-start;
+    }
+    .big-width {
+        flex: 1 0 70%;
+    }
+    .scroll-container {
+        overflow-y: scroll;
+    }
+    @media (max-width: 767px) {
+        .small-width button:first-of-type {
+            margin-top: 0;
+        }
+        .scroll-container {
+            height: calc(100vh - 271px);
+        }
+        .columns-nowrap {
+            width: 100%;
+        }
+        .container {
+            flex-direction: column;
+        }
+    }
+}

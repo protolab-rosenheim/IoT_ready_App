@@ -1,0 +1,786 @@
+[
+    {
+        "count": 4,
+        "id": 1,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43322,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 2,
+        "name": "P00_HE~70151_SoF_H100",
+        "part_number": 43320,
+        "text_short": "HE Sockelverstellfu\u00df Korrekt, H\u00f6he=100mm"
+    },
+    {
+        "count": 4,
+        "id": 3,
+        "name": "P00_HE~61854_Sockelhalter_mS",
+        "part_number": 43320,
+        "text_short": "HE Sockelhalter zum Schrauben, mit Schrauben 4x35"
+    },
+    {
+        "count": 2,
+        "id": 4,
+        "name": "P00_HE~61855_Sockelclip_S",
+        "part_number": 43320,
+        "text_short": "HE Sockelclip zum Schrauben"
+    },
+    {
+        "count": 6,
+        "id": 5,
+        "name": "P00_HE~71950_Rastex15~19mA",
+        "part_number": 43319,
+        "text_short": "HE Rastex 15/19 mit Abdeckrand, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 6,
+        "id": 6,
+        "name": "P00_HE~48038_Twister~DU320T",
+        "part_number": 43319,
+        "text_short": "HE Einschraubd\u00fcbel Twister DU 320 T, B34/8/5,  Stahl verzinkt / Kunststoff schwarz"
+    },
+    {
+        "count": 8,
+        "id": 7,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43319,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 1,
+        "id": 8,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43313,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 4,
+        "id": 9,
+        "name": "P00_HE~9071220_8645i~THS55_E",
+        "part_number": 43313,
+        "text_short": "HE Topfscharnier, Sensys Silent, 8645i-THS55, Eckanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 2,
+        "id": 10,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43328,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 11,
+        "name": "P00_HE~70151_SoF_H100",
+        "part_number": 43325,
+        "text_short": "HE Sockelverstellfu\u00df Korrekt, H\u00f6he=100mm"
+    },
+    {
+        "count": 4,
+        "id": 12,
+        "name": "P00_HE~61854_Sockelhalter_mS",
+        "part_number": 43325,
+        "text_short": "HE Sockelhalter zum Schrauben, mit Schrauben 4x35"
+    },
+    {
+        "count": 2,
+        "id": 13,
+        "name": "P00_HE~61855_Sockelclip_S",
+        "part_number": 43325,
+        "text_short": "HE Sockelclip zum Schrauben"
+    },
+    {
+        "count": 6,
+        "id": 14,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43325,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 15,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43326,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 16,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43329,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 17,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43330,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 2,
+        "id": 18,
+        "name": "P00_HE~9071220_8645i~THS55_E",
+        "part_number": 43327,
+        "text_short": "HE Topfscharnier, Sensys Silent, 8645i-THS55, Eckanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 19,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43327,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 4,
+        "id": 20,
+        "name": "P00_HE~70151_SoF_H100",
+        "part_number": 43265,
+        "text_short": "HE Sockelverstellfu\u00df Korrekt, H\u00f6he=100mm"
+    },
+    {
+        "count": 4,
+        "id": 21,
+        "name": "P00_HE~61854_Sockelhalter_mS",
+        "part_number": 43265,
+        "text_short": "HE Sockelhalter zum Schrauben, mit Schrauben 4x35"
+    },
+    {
+        "count": 2,
+        "id": 22,
+        "name": "P00_HE~61855_Sockelclip_S",
+        "part_number": 43265,
+        "text_short": "HE Sockelclip zum Schrauben"
+    },
+    {
+        "count": 6,
+        "id": 23,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43265,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 24,
+        "name": "P00_HE~70151_SoF_H100",
+        "part_number": 43303,
+        "text_short": "HE Sockelverstellfu\u00df Korrekt, H\u00f6he=100mm"
+    },
+    {
+        "count": 4,
+        "id": 25,
+        "name": "P00_HE~61854_Sockelhalter_mS",
+        "part_number": 43303,
+        "text_short": "HE Sockelhalter zum Schrauben, mit Schrauben 4x35"
+    },
+    {
+        "count": 6,
+        "id": 26,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43303,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 2,
+        "id": 27,
+        "name": "P00_HE~61855_Sockelclip_S",
+        "part_number": 43303,
+        "text_short": "HE Sockelclip zum Schrauben"
+    },
+    {
+        "count": 4,
+        "id": 28,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43264,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 29,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43263,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 30,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43261,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 31,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43262,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 1,
+        "id": 32,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43260,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 1,
+        "id": 33,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43258,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 1,
+        "id": 34,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43255,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 4,
+        "id": 35,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43305,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 2,
+        "id": 36,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43272,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 37,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43306,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 38,
+        "name": "P00_HE~61854_Sockelhalter_mS",
+        "part_number": 43271,
+        "text_short": "HE Sockelhalter zum Schrauben, mit Schrauben 4x35"
+    },
+    {
+        "count": 4,
+        "id": 39,
+        "name": "P00_HE~70151_SoF_H100",
+        "part_number": 43271,
+        "text_short": "HE Sockelverstellfu\u00df Korrekt, H\u00f6he=100mm"
+    },
+    {
+        "count": 2,
+        "id": 40,
+        "name": "P00_HE~61855_Sockelclip_S",
+        "part_number": 43271,
+        "text_short": "HE Sockelclip zum Schrauben"
+    },
+    {
+        "count": 6,
+        "id": 41,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43271,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 42,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43270,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 43,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43277,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 44,
+        "name": "P00_HE~19557_Sekura1~5_LR5",
+        "part_number": 43276,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 45,
+        "name": "P00_HE~19557_Sekura1~5_LR5",
+        "part_number": 43275,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 2,
+        "id": 46,
+        "name": "P00_HE~9071220_8645i~THS55_E",
+        "part_number": 43274,
+        "text_short": "HE Topfscharnier, Sensys Silent, 8645i-THS55, Eckanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 47,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43274,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 4,
+        "id": 48,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43307,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 49,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43367,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 50,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43366,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 2,
+        "id": 51,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43366,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 52,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43304,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 2,
+        "id": 53,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43365,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 6,
+        "id": 54,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43365,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 1,
+        "id": 55,
+        "name": "P00_HE~79717_SAH216",
+        "part_number": 43364,
+        "text_short": "HE Schrankaufh\u00e4nger-Set SAH216, Stahl verzinkt"
+    },
+    {
+        "count": 6,
+        "id": 56,
+        "name": "P00_HE~79719_SAH216_ADK15",
+        "part_number": 43364,
+        "text_short": "HE Abdeckkappe 15mm f\u00fcr Schrankaufh\u00e4nger SAH 216, Kunststoff wei\u00df"
+    },
+    {
+        "count": 1,
+        "id": 57,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43297,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 4,
+        "id": 58,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43358,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 2,
+        "id": 59,
+        "name": "P00_HE~9071275_8645~THS55_M",
+        "part_number": 43359,
+        "text_short": "HE Topfscharnier, Sensys 8645-THS55, Mittelanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 60,
+        "name": "P00_HE~16179_KLS30_85\u00b0",
+        "part_number": 43359,
+        "text_short": "HE Klappenst\u00fctze, KLS 30, \u00d6ffnungswinkel 85\u00b0, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 61,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43359,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 2,
+        "id": 62,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43344,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 6,
+        "id": 63,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43343,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 64,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43341,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 65,
+        "name": "P00_HE~19557_Sekura1~5_LR5",
+        "part_number": 43342,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 66,
+        "name": "P00_HE~9210735_187_500_hH",
+        "part_number": 43302,
+        "text_short": "HE Set Zweiseitenzargensystem AvanTech, H187/NL500, Hinterst\u00fcck Holz, Alu exloxiert"
+    },
+    {
+        "count": 1,
+        "id": 67,
+        "name": "P00_HE~9203416_A5D_500_FA",
+        "part_number": 43302,
+        "text_short": "HE Set Unterflurf\u00fchrung Actro 5D, Silent, NL500, 60 kg, Stahl verzinkt"
+    },
+    {
+        "count": 1,
+        "id": 68,
+        "name": "P00_HE~9203416_A5D_500_FA",
+        "part_number": 43298,
+        "text_short": "HE Set Unterflurf\u00fchrung Actro 5D, Silent, NL500, 60 kg, Stahl verzinkt"
+    },
+    {
+        "count": 1,
+        "id": 69,
+        "name": "P00_HE~9210725_101_500_hH",
+        "part_number": 43298,
+        "text_short": "HE Set Zweiseitenzargensystem AvanTech, H101/NL500, Hinterst\u00fcck Holz, Alu exloxiert"
+    },
+    {
+        "count": 4,
+        "id": 70,
+        "name": "P00_HE~19557_Sekura1~5_LR5",
+        "part_number": 43338,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 71,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43340,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 2,
+        "id": 72,
+        "name": "P00_HE~9071220_8645i~THS55_E",
+        "part_number": 43340,
+        "text_short": "HE Topfscharnier, Sensys Silent, 8645i-THS55, Eckanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 73,
+        "name": "P00_HE~79717_SAH216",
+        "part_number": 43339,
+        "text_short": "HE Schrankaufh\u00e4nger-Set SAH216, Stahl verzinkt"
+    },
+    {
+        "count": 6,
+        "id": 74,
+        "name": "P00_HE~79719_SAH216_ADK15",
+        "part_number": 43339,
+        "text_short": "HE Abdeckkappe 15mm f\u00fcr Schrankaufh\u00e4nger SAH 216, Kunststoff wei\u00df"
+    },
+    {
+        "count": 2,
+        "id": 75,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43337,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 6,
+        "id": 76,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43331,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 77,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43332,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 78,
+        "name": "P00_HE~19557_Sekura1~5_LR5",
+        "part_number": 43333,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 79,
+        "name": "P00_HE~19557_Sekura1~5_LR5",
+        "part_number": 43345,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 80,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43334,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 2,
+        "id": 81,
+        "name": "P00_HE~9071220_8645i~THS55_E",
+        "part_number": 43334,
+        "text_short": "HE Topfscharnier, Sensys Silent, 8645i-THS55, Eckanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 82,
+        "name": "P00_HE~79717_SAH216",
+        "part_number": 43346,
+        "text_short": "HE Schrankaufh\u00e4nger-Set SAH216, Stahl verzinkt"
+    },
+    {
+        "count": 6,
+        "id": 83,
+        "name": "P00_HE~79719_SAH216_ADK15",
+        "part_number": 43346,
+        "text_short": "HE Abdeckkappe 15mm f\u00fcr Schrankaufh\u00e4nger SAH 216, Kunststoff wei\u00df"
+    },
+    {
+        "count": 4,
+        "id": 84,
+        "name": "P00_HE~9071645_KMP0,0",
+        "part_number": 43350,
+        "text_short": "HE Kreuzmontageplatte, D=0mm mit vormontierten Euroschrauben, Stahl vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 85,
+        "name": "P00_HE~61854_Sockelhalter_mS",
+        "part_number": 43351,
+        "text_short": "HE Sockelhalter zum Schrauben, mit Schrauben 4x35"
+    },
+    {
+        "count": 4,
+        "id": 86,
+        "name": "P00_HE~70151_SoF_H100",
+        "part_number": 43351,
+        "text_short": "HE Sockelverstellfu\u00df Korrekt, H\u00f6he=100mm"
+    },
+    {
+        "count": 2,
+        "id": 87,
+        "name": "P00_HE~61855_Sockelclip_S",
+        "part_number": 43351,
+        "text_short": "HE Sockelclip zum Schrauben"
+    },
+    {
+        "count": 4,
+        "id": 88,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43310,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 89,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43309,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 90,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43296,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 91,
+        "name": "P00_HE~9210735_187_500_hH",
+        "part_number": 43269,
+        "text_short": "HE Set Zweiseitenzargensystem AvanTech, H187/NL500, Hinterst\u00fcck Holz, Alu exloxiert"
+    },
+    {
+        "count": 1,
+        "id": 92,
+        "name": "P00_HE~9203416_A5D_500_FA",
+        "part_number": 43269,
+        "text_short": "HE Set Unterflurf\u00fchrung Actro 5D, Silent, NL500, 60 kg, Stahl verzinkt"
+    },
+    {
+        "count": 4,
+        "id": 93,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43353,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 94,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43356,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 95,
+        "name": "P00_HE~9203416_A5D_500_FA",
+        "part_number": 43253,
+        "text_short": "HE Set Unterflurf\u00fchrung Actro 5D, Silent, NL500, 60 kg, Stahl verzinkt"
+    },
+    {
+        "count": 1,
+        "id": 96,
+        "name": "P00_HE~9210735_187_500_hH",
+        "part_number": 43253,
+        "text_short": "HE Set Zweiseitenzargensystem AvanTech, H187/NL500, Hinterst\u00fcck Holz, Alu exloxiert"
+    },
+    {
+        "count": 1,
+        "id": 97,
+        "name": "P00_HE~9210725_101_500_hH",
+        "part_number": 43254,
+        "text_short": "HE Set Zweiseitenzargensystem AvanTech, H101/NL500, Hinterst\u00fcck Holz, Alu exloxiert"
+    },
+    {
+        "count": 1,
+        "id": 98,
+        "name": "P00_HE~9203416_A5D_500_FA",
+        "part_number": 43254,
+        "text_short": "HE Set Unterflurf\u00fchrung Actro 5D, Silent, NL500, 60 kg, Stahl verzinkt"
+    },
+    {
+        "count": 5,
+        "id": 99,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43292,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 4,
+        "id": 100,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43354,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 101,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43355,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 102,
+        "name": "P00_HE~19557_Sekura1~5_LR1",
+        "part_number": 43361,
+        "text_short": "HE Bodentr\u00e4ger, Sekura 1.1, 5mm, Zinkdruckguss vernickelt"
+    },
+    {
+        "count": 4,
+        "id": 103,
+        "name": "P00_HE~9071220_8645i~THS55_E",
+        "part_number": 43362,
+        "text_short": "HE Topfscharnier, Sensys Silent, 8645i-THS55, Eckanschlag, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 104,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43362,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 5,
+        "id": 105,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43284,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 106,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43293,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 107,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43288,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 108,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43290,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 6,
+        "id": 109,
+        "name": "P00_NN_D\u00fcbel_8x30_S",
+        "part_number": 43283,
+        "text_short": "NN D\u00fcbel, 8x30"
+    },
+    {
+        "count": 1,
+        "id": 110,
+        "name": "P00_HE~16179_KLS30_85\u00b0",
+        "part_number": 43357,
+        "text_short": "HE Klappenst\u00fctze, KLS 30, \u00d6ffnungswinkel 85\u00b0, Stahl vernickelt"
+    },
+    {
+        "count": 1,
+        "id": 111,
+        "name": "P00_NN_Griff_128_D4",
+        "part_number": 43357,
+        "text_short": "NN Griff, Bohrabstand 128 mm, mit Bohrung D=4mm"
+    },
+    {
+        "count": 2,
+        "id": 112,
+        "name": "P00_HE~9071274_8645~THS55_E",
+        "part_number": 43357,
+        "text_short": "HE Topfscharnier, Sensys 8645-THS55, Eckanschlag, Stahl vernickelt"
+    }
+]

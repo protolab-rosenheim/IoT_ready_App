@@ -1,0 +1,108 @@
+<!--
+  Generated template for the CutOrdersPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <proto-header title="Auftragsübersicht"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+  <ion-grid>
+    <div *ngIf="orders.length === 0">
+      <h2>
+        Zur Zeit gibt es keine geschredderten Aufträge
+      </h2>
+      <h4>
+        Zerteilen Sie Aufträge im Schredder und speichern Sie diese, um das Ergebnis hier anzuzeigen
+      </h4>
+    </div>
+    <div *ngFor="let order of orders">
+      <ion-row>
+        <h3>{{order.customer_order}}</h3>
+      </ion-row>
+      <ion-row class="headline">
+        <ion-col col-3>
+          Wagen
+        </ion-col>
+        <ion-col col-2>
+          Status
+        </ion-col>
+        <ion-col>
+          Aktionen
+        </ion-col>
+      </ion-row>
+      <ion-row *ngFor="let carriage of order.virtual_carriages">
+        <ion-col col-3>
+          <ion-icon name="{{'custom-' + carriage.type}}" item-start></ion-icon>
+          {{carriage.name}}
+        </ion-col>
+        <ion-col col-2>
+          Zu fertigen
+        </ion-col>
+        <ion-col>
+          <button small ion-button (click)="orderCariage()">Wagen bestellen</button>
+          <button small ion-button (click)="marryWithCarriage(carriage.id, carriage.order_id)">Wagen verheiraten</button>
+          <button small ion-button (click)="produceClicked()">Jetzt produzieren</button>
+          <button small ion-button (click)="onFetchCarriageClick($event)">Wagen abholen</button>
+        </ion-col>
+      </ion-row>
+    </div>
+  </ion-grid>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <h3> Nachbestellte Teile:</h3>
+      </ion-col>
+    </ion-row>
+    <ion-row class="full-height">
+
+      <ion-col col-10>
+        <ion-row class="headline">
+          <ion-col col-1>
+            <ion-checkbox [checked]="allPartsSelected" (click)="toggleSelectAll()" *ngIf="reorderedParts.length != 0"></ion-checkbox>
+          </ion-col>
+
+          <ion-col>Material</ion-col>
+          <ion-col col-1>Teilenr.:</ion-col>
+          <ion-col col-2>Maße:</ion-col>
+          <ion-col>Auftrag</ion-col>
+          <ion-col col-2>Lieferdatum</ion-col>
+
+        </ion-row>
+
+        <ion-scroll scrollY="true" class="decimated-height">
+          <ion-row *ngFor="let part of reorderedParts">
+
+            <ion-col col-1>
+              <ion-checkbox [checked]="isSelected(part)" (click)="toggleSelection(part)"></ion-checkbox>
+            </ion-col>
+            <ion-col>{{part.material_code}}</ion-col>
+            <ion-col col-1>{{part.part_number}}</ion-col>
+            <ion-col col-2>{{part.finished_length}}x{{part.finished_width}}x{{part.finished_thickness}}</ion-col>
+            <ion-col>{{getReorderedPartOrderName(part.order_id)}}</ion-col>
+            <ion-col col-2>{{getReorderedPartDeliveryDate(part.order_id)}}</ion-col>
+
+          </ion-row>
+        </ion-scroll>
+
+      </ion-col>
+
+      <ion-col col-2>
+        <ion-grid>
+          <ion-row padding-vertical>
+            <ion-col>
+              <button ion-button [disabled]="selectedParts.length === 0" (click)="produceAgain()">Nachproduzieren</button>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-col>
+
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Teilefertigung" buttonTextReorder="Teil nachbestellen" (buttonReorderPressed)="onReorderPartClick($event)"></proto-footer>
+</ion-footer>

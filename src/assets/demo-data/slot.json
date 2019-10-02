@@ -1,0 +1,710 @@
+[
+    {
+        "id": 9,
+        "slot_name": 1,
+        "part_number": 43252,
+        "module_number": 1
+    },
+    {
+        "id": 10,
+        "slot_name": 2,
+        "part_number": 43253,
+        "module_number": 1
+    },
+    {
+        "id": 11,
+        "slot_name": 3,
+        "part_number": 43254,
+        "module_number": 1
+    },
+    {
+        "id": 20,
+        "slot_name": 12,
+        "part_number": 43263,
+        "module_number": 1
+    },
+    {
+        "id": 19,
+        "slot_name": 11,
+        "part_number": 43262,
+        "module_number": 1
+    },
+    {
+        "id": 12,
+        "slot_name": 4,
+        "part_number": 43255,
+        "module_number": 1
+    },
+    {
+        "id": 14,
+        "slot_name": 6,
+        "part_number": 43257,
+        "module_number": 1
+    },
+    {
+        "id": 13,
+        "slot_name": 5,
+        "part_number": 43256,
+        "module_number": 1
+    },
+    {
+        "id": 16,
+        "slot_name": 8,
+        "part_number": 43259,
+        "module_number": 1
+    },
+    {
+        "id": 15,
+        "slot_name": 7,
+        "part_number": 43258,
+        "module_number": 1
+    },
+    {
+        "id": 18,
+        "slot_name": 10,
+        "part_number": 43261,
+        "module_number": 1
+    },
+    {
+        "id": 17,
+        "slot_name": 9,
+        "part_number": 43260,
+        "module_number": 1
+    },
+    {
+        "id": 33,
+        "slot_name": 25,
+        "part_number": 43276,
+        "module_number": 1
+    },
+    {
+        "id": 34,
+        "slot_name": 26,
+        "part_number": 43277,
+        "module_number": 1
+    },
+    {
+        "id": 35,
+        "slot_name": 27,
+        "part_number": 43278,
+        "module_number": 1
+    },
+    {
+        "id": 36,
+        "slot_name": 28,
+        "part_number": 43279,
+        "module_number": 1
+    },
+    {
+        "id": 29,
+        "slot_name": 21,
+        "part_number": 43272,
+        "module_number": 1
+    },
+    {
+        "id": 30,
+        "slot_name": 22,
+        "part_number": 43273,
+        "module_number": 1
+    },
+    {
+        "id": 31,
+        "slot_name": 23,
+        "part_number": 43274,
+        "module_number": 1
+    },
+    {
+        "id": 32,
+        "slot_name": 24,
+        "part_number": 43275,
+        "module_number": 1
+    },
+    {
+        "id": 37,
+        "slot_name": 29,
+        "part_number": 43280,
+        "module_number": 1
+    },
+    {
+        "id": 38,
+        "slot_name": 30,
+        "part_number": 43281,
+        "module_number": 1
+    },
+    {
+        "id": 68,
+        "slot_name": 60,
+        "part_number": 43311,
+        "module_number": 1
+    },
+    {
+        "id": 67,
+        "slot_name": 59,
+        "part_number": 43310,
+        "module_number": 1
+    },
+    {
+        "id": 64,
+        "slot_name": 56,
+        "part_number": 43307,
+        "module_number": 1
+    },
+    {
+        "id": 63,
+        "slot_name": 55,
+        "part_number": 43306,
+        "module_number": 1
+    },
+    {
+        "id": 66,
+        "slot_name": 58,
+        "part_number": 43309,
+        "module_number": 1
+    },
+    {
+        "id": 65,
+        "slot_name": 57,
+        "part_number": 43308,
+        "module_number": 1
+    },
+    {
+        "id": 60,
+        "slot_name": 52,
+        "part_number": 43303,
+        "module_number": 1
+    },
+    {
+        "id": 59,
+        "slot_name": 51,
+        "part_number": 43302,
+        "module_number": 1
+    },
+    {
+        "id": 62,
+        "slot_name": 54,
+        "part_number": 43305,
+        "module_number": 1
+    },
+    {
+        "id": 61,
+        "slot_name": 53,
+        "part_number": 43304,
+        "module_number": 1
+    },
+    {
+        "id": 124,
+        "slot_name": 116,
+        "part_number": 43367,
+        "module_number": 1
+    },
+    {
+        "id": 123,
+        "slot_name": 115,
+        "part_number": 43366,
+        "module_number": 1
+    },
+    {
+        "id": 97,
+        "slot_name": 89,
+        "part_number": 43340,
+        "module_number": 1
+    },
+    {
+        "id": 98,
+        "slot_name": 90,
+        "part_number": 43341,
+        "module_number": 1
+    },
+    {
+        "id": 120,
+        "slot_name": 112,
+        "part_number": 43363,
+        "module_number": 1
+    },
+    {
+        "id": 119,
+        "slot_name": 110,
+        "part_number": 43362,
+        "module_number": 1
+    },
+    {
+        "id": 122,
+        "slot_name": 114,
+        "part_number": 43365,
+        "module_number": 1
+    },
+    {
+        "id": 121,
+        "slot_name": 113,
+        "part_number": 43364,
+        "module_number": 1
+    },
+    {
+        "id": 91,
+        "slot_name": 83,
+        "part_number": 43334,
+        "module_number": 1
+    },
+    {
+        "id": 92,
+        "slot_name": 84,
+        "part_number": 43335,
+        "module_number": 1
+    },
+    {
+        "id": 89,
+        "slot_name": 81,
+        "part_number": 43332,
+        "module_number": 1
+    },
+    {
+        "id": 90,
+        "slot_name": 82,
+        "part_number": 43333,
+        "module_number": 1
+    },
+    {
+        "id": 95,
+        "slot_name": 87,
+        "part_number": 43338,
+        "module_number": 1
+    },
+    {
+        "id": 96,
+        "slot_name": 88,
+        "part_number": 43339,
+        "module_number": 1
+    },
+    {
+        "id": 93,
+        "slot_name": 85,
+        "part_number": 43336,
+        "module_number": 1
+    },
+    {
+        "id": 94,
+        "slot_name": 86,
+        "part_number": 43337,
+        "module_number": 1
+    },
+    {
+        "id": 117,
+        "slot_name": 109,
+        "part_number": 43360,
+        "module_number": 1
+    },
+    {
+        "id": 118,
+        "slot_name": 110,
+        "part_number": 43361,
+        "module_number": 1
+    },
+    {
+        "id": 111,
+        "slot_name": 103,
+        "part_number": 43354,
+        "module_number": 1
+    },
+    {
+        "id": 112,
+        "slot_name": 104,
+        "part_number": 43355,
+        "module_number": 1
+    },
+    {
+        "id": 109,
+        "slot_name": 101,
+        "part_number": 43352,
+        "module_number": 1
+    },
+    {
+        "id": 110,
+        "slot_name": 102,
+        "part_number": 43353,
+        "module_number": 1
+    },
+    {
+        "id": 115,
+        "slot_name": 107,
+        "part_number": 43358,
+        "module_number": 1
+    },
+    {
+        "id": 116,
+        "slot_name": 108,
+        "part_number": 43359,
+        "module_number": 1
+    },
+    {
+        "id": 113,
+        "slot_name": 105,
+        "part_number": 43356,
+        "module_number": 1
+    },
+    {
+        "id": 114,
+        "slot_name": 106,
+        "part_number": 43357,
+        "module_number": 1
+    },
+    {
+        "id": 48,
+        "slot_name": 40,
+        "part_number": 43291,
+        "module_number": 1
+    },
+    {
+        "id": 47,
+        "slot_name": 39,
+        "part_number": 43290,
+        "module_number": 1
+    },
+    {
+        "id": 42,
+        "slot_name": 34,
+        "part_number": 43285,
+        "module_number": 1
+    },
+    {
+        "id": 41,
+        "slot_name": 33,
+        "part_number": 43284,
+        "module_number": 1
+    },
+    {
+        "id": 40,
+        "slot_name": 32,
+        "part_number": 43283,
+        "module_number": 1
+    },
+    {
+        "id": 39,
+        "slot_name": 31,
+        "part_number": 43282,
+        "module_number": 1
+    },
+    {
+        "id": 46,
+        "slot_name": 38,
+        "part_number": 43289,
+        "module_number": 1
+    },
+    {
+        "id": 45,
+        "slot_name": 37,
+        "part_number": 43288,
+        "module_number": 1
+    },
+    {
+        "id": 44,
+        "slot_name": 36,
+        "part_number": 43287,
+        "module_number": 1
+    },
+    {
+        "id": 43,
+        "slot_name": 35,
+        "part_number": 43286,
+        "module_number": 1
+    },
+    {
+        "id": 69,
+        "slot_name": 61,
+        "part_number": 43312,
+        "module_number": 1
+    },
+    {
+        "id": 70,
+        "slot_name": 62,
+        "part_number": 43313,
+        "module_number": 1
+    },
+    {
+        "id": 71,
+        "slot_name": 63,
+        "part_number": 43314,
+        "module_number": 1
+    },
+    {
+        "id": 72,
+        "slot_name": 64,
+        "part_number": 43315,
+        "module_number": 1
+    },
+    {
+        "id": 73,
+        "slot_name": 65,
+        "part_number": 43316,
+        "module_number": 1
+    },
+    {
+        "id": 74,
+        "slot_name": 66,
+        "part_number": 43317,
+        "module_number": 1
+    },
+    {
+        "id": 75,
+        "slot_name": 67,
+        "part_number": 43318,
+        "module_number": 1
+    },
+    {
+        "id": 76,
+        "slot_name": 68,
+        "part_number": 43319,
+        "module_number": 1
+    },
+    {
+        "id": 77,
+        "slot_name": 69,
+        "part_number": 43320,
+        "module_number": 1
+    },
+    {
+        "id": 78,
+        "slot_name": 70,
+        "part_number": 43321,
+        "module_number": 1
+    },
+    {
+        "id": 108,
+        "slot_name": 100,
+        "part_number": 43351,
+        "module_number": 1
+    },
+    {
+        "id": 107,
+        "slot_name": 99,
+        "part_number": 43350,
+        "module_number": 1
+    },
+    {
+        "id": 100,
+        "slot_name": 92,
+        "part_number": 43343,
+        "module_number": 1
+    },
+    {
+        "id": 99,
+        "slot_name": 91,
+        "part_number": 43342,
+        "module_number": 1
+    },
+    {
+        "id": 102,
+        "slot_name": 94,
+        "part_number": 43345,
+        "module_number": 1
+    },
+    {
+        "id": 101,
+        "slot_name": 93,
+        "part_number": 43344,
+        "module_number": 1
+    },
+    {
+        "id": 104,
+        "slot_name": 96,
+        "part_number": 43347,
+        "module_number": 1
+    },
+    {
+        "id": 103,
+        "slot_name": 95,
+        "part_number": 43346,
+        "module_number": 1
+    },
+    {
+        "id": 106,
+        "slot_name": 98,
+        "part_number": 43349,
+        "module_number": 1
+    },
+    {
+        "id": 105,
+        "slot_name": 97,
+        "part_number": 43348,
+        "module_number": 1
+    },
+    {
+        "id": 22,
+        "slot_name": 14,
+        "part_number": 43265,
+        "module_number": 1
+    },
+    {
+        "id": 21,
+        "slot_name": 13,
+        "part_number": 43264,
+        "module_number": 1
+    },
+    {
+        "id": 24,
+        "slot_name": 16,
+        "part_number": 43267,
+        "module_number": 1
+    },
+    {
+        "id": 23,
+        "slot_name": 15,
+        "part_number": 43266,
+        "module_number": 1
+    },
+    {
+        "id": 26,
+        "slot_name": 18,
+        "part_number": 43269,
+        "module_number": 1
+    },
+    {
+        "id": 25,
+        "slot_name": 17,
+        "part_number": 43268,
+        "module_number": 1
+    },
+    {
+        "id": 28,
+        "slot_name": 20,
+        "part_number": 43271,
+        "module_number": 1
+    },
+    {
+        "id": 27,
+        "slot_name": 19,
+        "part_number": 43270,
+        "module_number": 1
+    },
+    {
+        "id": 126,
+        "slot_name": 118,
+        "part_number": 43369,
+        "module_number": 1
+    },
+    {
+        "id": 125,
+        "slot_name": 117,
+        "part_number": 43368,
+        "module_number": 1
+    },
+    {
+        "id": 57,
+        "slot_name": 49,
+        "part_number": 43300,
+        "module_number": 1
+    },
+    {
+        "id": 58,
+        "slot_name": 50,
+        "part_number": 43301,
+        "module_number": 1
+    },
+    {
+        "id": 55,
+        "slot_name": 47,
+        "part_number": 43298,
+        "module_number": 1
+    },
+    {
+        "id": 56,
+        "slot_name": 48,
+        "part_number": 43299,
+        "module_number": 1
+    },
+    {
+        "id": 53,
+        "slot_name": 45,
+        "part_number": 43296,
+        "module_number": 1
+    },
+    {
+        "id": 54,
+        "slot_name": 46,
+        "part_number": 43297,
+        "module_number": 1
+    },
+    {
+        "id": 51,
+        "slot_name": 43,
+        "part_number": 43294,
+        "module_number": 1
+    },
+    {
+        "id": 52,
+        "slot_name": 44,
+        "part_number": 43295,
+        "module_number": 1
+    },
+    {
+        "id": 49,
+        "slot_name": 41,
+        "part_number": 43292,
+        "module_number": 1
+    },
+    {
+        "id": 50,
+        "slot_name": 42,
+        "part_number": 43293,
+        "module_number": 1
+    },
+    {
+        "id": 86,
+        "slot_name": 78,
+        "part_number": 43329,
+        "module_number": 1
+    },
+    {
+        "id": 85,
+        "slot_name": 77,
+        "part_number": 43328,
+        "module_number": 1
+    },
+    {
+        "id": 84,
+        "slot_name": 76,
+        "part_number": 43327,
+        "module_number": 1
+    },
+    {
+        "id": 83,
+        "slot_name": 75,
+        "part_number": 43326,
+        "module_number": 1
+    },
+    {
+        "id": 82,
+        "slot_name": 74,
+        "part_number": 43325,
+        "module_number": 1
+    },
+    {
+        "id": 81,
+        "slot_name": 73,
+        "part_number": 43324,
+        "module_number": 1
+    },
+    {
+        "id": 80,
+        "slot_name": 72,
+        "part_number": 43323,
+        "module_number": 1
+    },
+    {
+        "id": 79,
+        "slot_name": 71,
+        "part_number": 43322,
+        "module_number": 1
+    },
+    {
+        "id": 88,
+        "slot_name": 80,
+        "part_number": 43331,
+        "module_number": 1
+    },
+    {
+        "id": 87,
+        "slot_name": 79,
+        "part_number": 43330,
+        "module_number": 1
+    }
+]

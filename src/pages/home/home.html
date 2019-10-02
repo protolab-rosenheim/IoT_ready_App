@@ -1,0 +1,13 @@
+<ion-header>
+  <proto-header title="Home"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+  <ion-row *ngFor="let info of cardInfos">
+    <proto-card *ngIf="info.name !== pageName" [title]="info.name" [text]="info.message" [iconSrc]="info.image" (click)='goToPage(info.name)'></proto-card>
+  </ion-row>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Home"></proto-footer>
+</ion-footer>

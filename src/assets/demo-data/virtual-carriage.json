@@ -1,0 +1,16 @@
+[
+    {
+        "id": 32,
+        "name": "Container 1",
+        "order_id": 7477,
+        "parts": [],
+        "type": "Container"
+    },
+    {
+        "id": 33,
+        "name": "Flachwagen 1",
+        "order_id": 7477,
+        "parts": [],
+        "type": "Flachwagen"
+    }
+]

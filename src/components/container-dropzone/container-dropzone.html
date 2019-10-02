@@ -1,0 +1,5 @@
+<ion-item (drop)="drop($event)" (dragover)="allowDrop($event)" (dragenter)="dragEnter($event)" (dragleave)="dragleave($event)" [class.dragover]="isDragOver">
+  {{container.name}}
+  <ion-icon name="{{iconName}}" item-start></ion-icon>
+  <level-bar [percentage]="fillLevel"></level-bar>
+</ion-item>

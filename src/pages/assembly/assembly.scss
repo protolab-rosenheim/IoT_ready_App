@@ -1,0 +1,27 @@
+page-assembly {
+    .three-container {
+        width: 100%;
+        height: 100%;
+    }
+    .selected {
+        background-color: map-get($colors, secondary);
+    }
+    .item {
+        text-align: center;
+        padding-left: 0px;
+    }
+    .rows {
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    .small-width {
+        flex: 1 0 30%;
+        overflow: auto;
+    }
+    .big-width {
+        flex: 0 1 70%;
+        overflow: auto;
+    }
+}

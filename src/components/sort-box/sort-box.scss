@@ -1,0 +1,17 @@
+sort-box {
+    .toolbar-background {
+        background-color: map-get($colors, light);
+    }
+    .toolbar-title {
+        color: #000;
+    }
+    .button-inner {
+        color: #000;
+    }
+    .bar-button {
+        border-color: map-get($colors, dark);
+    }
+    .toolbar {
+        padding-right: $content-padding;
+    }
+}

@@ -1,0 +1,4952 @@
+[
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 1,
+        "name": "CU1",
+        "part_number": 43252,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 2,
+        "name": "DR2",
+        "part_number": 43252,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 3,
+        "name": "CU1",
+        "part_number": 43253,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 4,
+        "name": "MP1",
+        "part_number": 43253,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 5,
+        "name": "EN1",
+        "part_number": 43253,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 6,
+        "name": "DR3",
+        "part_number": 43253,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 7,
+        "name": "CU1",
+        "part_number": 43254,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 8,
+        "name": "MP1",
+        "part_number": 43254,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 9,
+        "name": "EN1",
+        "part_number": 43254,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 10,
+        "name": "DR3",
+        "part_number": 43254,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 11,
+        "name": "CU1",
+        "part_number": 43255,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 12,
+        "name": "EB1",
+        "part_number": 43255,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 13,
+        "name": "EB1",
+        "part_number": 43255,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 14,
+        "name": "EB1",
+        "part_number": 43255,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 15,
+        "name": "EB1",
+        "part_number": 43255,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 16,
+        "name": "DR1",
+        "part_number": 43255,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 17,
+        "name": "CU1",
+        "part_number": 43256,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 18,
+        "name": "DR2",
+        "part_number": 43256,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 19,
+        "name": "CU1",
+        "part_number": 43257,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 20,
+        "name": "DR2",
+        "part_number": 43257,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 21,
+        "name": "CU1",
+        "part_number": 43258,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 22,
+        "name": "EB1",
+        "part_number": 43258,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 23,
+        "name": "EB1",
+        "part_number": 43258,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 24,
+        "name": "EB1",
+        "part_number": 43258,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 25,
+        "name": "EB1",
+        "part_number": 43258,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 26,
+        "name": "DR1",
+        "part_number": 43258,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 27,
+        "name": "CU1",
+        "part_number": 43259,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 28,
+        "name": "CU1",
+        "part_number": 43260,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 29,
+        "name": "EB1",
+        "part_number": 43260,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 30,
+        "name": "EB1",
+        "part_number": 43260,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 31,
+        "name": "EB1",
+        "part_number": 43260,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 32,
+        "name": "EB1",
+        "part_number": 43260,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 33,
+        "name": "DR1",
+        "part_number": 43260,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 34,
+        "name": "CU1",
+        "part_number": 43261,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 35,
+        "name": "EN1",
+        "part_number": 43261,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 36,
+        "name": "DR3",
+        "part_number": 43261,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 37,
+        "name": "CU1",
+        "part_number": 43262,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 38,
+        "name": "EN1",
+        "part_number": 43262,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 39,
+        "name": "DR3",
+        "part_number": 43262,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 40,
+        "name": "CU1",
+        "part_number": 43263,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 41,
+        "name": "EN1",
+        "part_number": 43263,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 42,
+        "name": "DR3",
+        "part_number": 43263,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 43,
+        "name": "CU1",
+        "part_number": 43264,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 44,
+        "name": "EN1",
+        "part_number": 43264,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 45,
+        "name": "DR3",
+        "part_number": 43264,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 46,
+        "name": "CU1",
+        "part_number": 43265,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 47,
+        "name": "EB1",
+        "part_number": 43265,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 48,
+        "name": "EB1",
+        "part_number": 43265,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 49,
+        "name": "EB1",
+        "part_number": 43265,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 50,
+        "name": "EB1",
+        "part_number": 43265,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 51,
+        "name": "DR1",
+        "part_number": 43265,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 52,
+        "name": "CU1",
+        "part_number": 43266,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 53,
+        "name": "EB1",
+        "part_number": 43266,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 54,
+        "name": "EB1",
+        "part_number": 43266,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 55,
+        "name": "EB1",
+        "part_number": 43266,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 56,
+        "name": "EB1",
+        "part_number": 43266,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 57,
+        "name": "DR1",
+        "part_number": 43266,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 58,
+        "name": "CU1",
+        "part_number": 43267,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 59,
+        "name": "EB1",
+        "part_number": 43267,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 60,
+        "name": "EB1",
+        "part_number": 43267,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 61,
+        "name": "EB1",
+        "part_number": 43267,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 62,
+        "name": "EB1",
+        "part_number": 43267,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 63,
+        "name": "DR1",
+        "part_number": 43267,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 64,
+        "name": "CU1",
+        "part_number": 43268,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 65,
+        "name": "EN1",
+        "part_number": 43268,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 66,
+        "name": "DR3",
+        "part_number": 43268,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 67,
+        "name": "CU1",
+        "part_number": 43269,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 68,
+        "name": "MP1",
+        "part_number": 43269,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 69,
+        "name": "EN1",
+        "part_number": 43269,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 70,
+        "name": "DR3",
+        "part_number": 43269,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 71,
+        "name": "CU1",
+        "part_number": 43270,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 72,
+        "name": "EN1",
+        "part_number": 43270,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 73,
+        "name": "DR3",
+        "part_number": 43270,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 74,
+        "name": "CU1",
+        "part_number": 43271,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 75,
+        "name": "EB1",
+        "part_number": 43271,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 76,
+        "name": "EB1",
+        "part_number": 43271,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 77,
+        "name": "EB1",
+        "part_number": 43271,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 78,
+        "name": "EB1",
+        "part_number": 43271,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 79,
+        "name": "DR1",
+        "part_number": 43271,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 80,
+        "name": "CU1",
+        "part_number": 43272,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 81,
+        "name": "EB1",
+        "part_number": 43272,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 82,
+        "name": "EB1",
+        "part_number": 43272,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 83,
+        "name": "EB1",
+        "part_number": 43272,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 84,
+        "name": "EB1",
+        "part_number": 43272,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 85,
+        "name": "DR1",
+        "part_number": 43272,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 86,
+        "name": "CU1",
+        "part_number": 43273,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 87,
+        "name": "EB1",
+        "part_number": 43273,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 88,
+        "name": "EB1",
+        "part_number": 43273,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 89,
+        "name": "EB1",
+        "part_number": 43273,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 90,
+        "name": "EB1",
+        "part_number": 43273,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 91,
+        "name": "DR1",
+        "part_number": 43273,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 92,
+        "name": "CU1",
+        "part_number": 43274,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 93,
+        "name": "EB1",
+        "part_number": 43274,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 94,
+        "name": "EB1",
+        "part_number": 43274,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 95,
+        "name": "EB1",
+        "part_number": 43274,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 96,
+        "name": "EB1",
+        "part_number": 43274,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 97,
+        "name": "DR1",
+        "part_number": 43274,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 98,
+        "name": "CU1",
+        "part_number": 43275,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 99,
+        "name": "EB1",
+        "part_number": 43275,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 100,
+        "name": "EB1",
+        "part_number": 43275,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 101,
+        "name": "EB1",
+        "part_number": 43275,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 102,
+        "name": "EB1",
+        "part_number": 43275,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 103,
+        "name": "DR1",
+        "part_number": 43275,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 104,
+        "name": "CU1",
+        "part_number": 43276,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 105,
+        "name": "EB1",
+        "part_number": 43276,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 106,
+        "name": "EB1",
+        "part_number": 43276,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 107,
+        "name": "EB1",
+        "part_number": 43276,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 108,
+        "name": "EB1",
+        "part_number": 43276,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 109,
+        "name": "DR1",
+        "part_number": 43276,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 110,
+        "name": "CU1",
+        "part_number": 43277,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 111,
+        "name": "EN1",
+        "part_number": 43277,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 112,
+        "name": "DR3",
+        "part_number": 43277,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 113,
+        "name": "CU1",
+        "part_number": 43278,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 114,
+        "name": "CU1",
+        "part_number": 43279,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 115,
+        "name": "EB1",
+        "part_number": 43279,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 116,
+        "name": "EB1",
+        "part_number": 43279,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 117,
+        "name": "EB1",
+        "part_number": 43279,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 118,
+        "name": "EB1",
+        "part_number": 43279,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 119,
+        "name": "DR1",
+        "part_number": 43279,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 120,
+        "name": "CU1",
+        "part_number": 43280,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 121,
+        "name": "EB1",
+        "part_number": 43280,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 122,
+        "name": "EB1",
+        "part_number": 43280,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 123,
+        "name": "EB1",
+        "part_number": 43280,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 124,
+        "name": "EB1",
+        "part_number": 43280,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 125,
+        "name": "DR1",
+        "part_number": 43280,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 126,
+        "name": "CU1",
+        "part_number": 43281,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 127,
+        "name": "EN1",
+        "part_number": 43281,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 128,
+        "name": "DR3",
+        "part_number": 43281,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 129,
+        "name": "CU1",
+        "part_number": 43282,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 130,
+        "name": "MP1",
+        "part_number": 43282,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 131,
+        "name": "EN1",
+        "part_number": 43282,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 132,
+        "name": "DR3",
+        "part_number": 43282,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 133,
+        "name": "CU1",
+        "part_number": 43283,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 134,
+        "name": "MP1",
+        "part_number": 43283,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 135,
+        "name": "EN1",
+        "part_number": 43283,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 136,
+        "name": "DR3",
+        "part_number": 43283,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 137,
+        "name": "CU1",
+        "part_number": 43284,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 138,
+        "name": "MP1",
+        "part_number": 43284,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 139,
+        "name": "EN1",
+        "part_number": 43284,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 140,
+        "name": "DR3",
+        "part_number": 43284,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 141,
+        "name": "CU1",
+        "part_number": 43285,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 142,
+        "name": "DR2",
+        "part_number": 43285,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 143,
+        "name": "CU1",
+        "part_number": 43286,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 144,
+        "name": "DR2",
+        "part_number": 43286,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 145,
+        "name": "CU1",
+        "part_number": 43287,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 146,
+        "name": "MP1",
+        "part_number": 43287,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 147,
+        "name": "EN1",
+        "part_number": 43287,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 148,
+        "name": "DR3",
+        "part_number": 43287,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 149,
+        "name": "CU1",
+        "part_number": 43288,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 150,
+        "name": "MP1",
+        "part_number": 43288,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 151,
+        "name": "EN1",
+        "part_number": 43288,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 152,
+        "name": "DR3",
+        "part_number": 43288,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 153,
+        "name": "CU1",
+        "part_number": 43289,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 154,
+        "name": "DR2",
+        "part_number": 43289,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 155,
+        "name": "CU1",
+        "part_number": 43290,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 156,
+        "name": "MP1",
+        "part_number": 43290,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 157,
+        "name": "EN1",
+        "part_number": 43290,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 158,
+        "name": "DR3",
+        "part_number": 43290,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 159,
+        "name": "CU1",
+        "part_number": 43291,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 160,
+        "name": "MP1",
+        "part_number": 43291,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 161,
+        "name": "EN1",
+        "part_number": 43291,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 162,
+        "name": "DR3",
+        "part_number": 43291,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 163,
+        "name": "CU1",
+        "part_number": 43292,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 164,
+        "name": "MP1",
+        "part_number": 43292,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 165,
+        "name": "EN1",
+        "part_number": 43292,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 166,
+        "name": "DR3",
+        "part_number": 43292,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 167,
+        "name": "CU1",
+        "part_number": 43293,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 168,
+        "name": "MP1",
+        "part_number": 43293,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 169,
+        "name": "EN1",
+        "part_number": 43293,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 170,
+        "name": "DR3",
+        "part_number": 43293,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 171,
+        "name": "CU1",
+        "part_number": 43294,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 172,
+        "name": "MP1",
+        "part_number": 43294,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 173,
+        "name": "EN1",
+        "part_number": 43294,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 174,
+        "name": "DR3",
+        "part_number": 43294,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 175,
+        "name": "CU1",
+        "part_number": 43295,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 176,
+        "name": "MP1",
+        "part_number": 43295,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 177,
+        "name": "EN1",
+        "part_number": 43295,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 178,
+        "name": "DR3",
+        "part_number": 43295,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 179,
+        "name": "CU1",
+        "part_number": 43296,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 180,
+        "name": "EB1",
+        "part_number": 43296,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 181,
+        "name": "EB1",
+        "part_number": 43296,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 182,
+        "name": "EB1",
+        "part_number": 43296,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 183,
+        "name": "EB1",
+        "part_number": 43296,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 184,
+        "name": "DR1",
+        "part_number": 43296,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 185,
+        "name": "CU1",
+        "part_number": 43297,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 186,
+        "name": "EB1",
+        "part_number": 43297,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 187,
+        "name": "EB1",
+        "part_number": 43297,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 188,
+        "name": "EB1",
+        "part_number": 43297,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 189,
+        "name": "EB1",
+        "part_number": 43297,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 190,
+        "name": "DR1",
+        "part_number": 43297,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 191,
+        "name": "CU1",
+        "part_number": 43298,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 192,
+        "name": "MP1",
+        "part_number": 43298,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 193,
+        "name": "EN1",
+        "part_number": 43298,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 194,
+        "name": "DR3",
+        "part_number": 43298,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 195,
+        "name": "CU1",
+        "part_number": 43299,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 196,
+        "name": "DR2",
+        "part_number": 43299,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 197,
+        "name": "CU1",
+        "part_number": 43300,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 198,
+        "name": "DR2",
+        "part_number": 43300,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 199,
+        "name": "CU1",
+        "part_number": 43301,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 200,
+        "name": "CU1",
+        "part_number": 43302,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 201,
+        "name": "MP1",
+        "part_number": 43302,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 202,
+        "name": "EN1",
+        "part_number": 43302,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 203,
+        "name": "DR3",
+        "part_number": 43302,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 204,
+        "name": "CU1",
+        "part_number": 43303,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 205,
+        "name": "EB1",
+        "part_number": 43303,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 206,
+        "name": "EB1",
+        "part_number": 43303,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 207,
+        "name": "EB1",
+        "part_number": 43303,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 208,
+        "name": "EB1",
+        "part_number": 43303,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 209,
+        "name": "DR1",
+        "part_number": 43303,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 210,
+        "name": "CU1",
+        "part_number": 43304,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 211,
+        "name": "EB1",
+        "part_number": 43304,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 212,
+        "name": "EB1",
+        "part_number": 43304,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 213,
+        "name": "EB1",
+        "part_number": 43304,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 214,
+        "name": "EB1",
+        "part_number": 43304,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 215,
+        "name": "DR1",
+        "part_number": 43304,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 216,
+        "name": "CU1",
+        "part_number": 43305,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 217,
+        "name": "EN1",
+        "part_number": 43305,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 218,
+        "name": "DR3",
+        "part_number": 43305,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 219,
+        "name": "CU1",
+        "part_number": 43306,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 220,
+        "name": "EN1",
+        "part_number": 43306,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 221,
+        "name": "DR3",
+        "part_number": 43306,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 222,
+        "name": "CU1",
+        "part_number": 43307,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 223,
+        "name": "EN1",
+        "part_number": 43307,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 224,
+        "name": "DR3",
+        "part_number": 43307,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 225,
+        "name": "CU1",
+        "part_number": 43308,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 226,
+        "name": "MP1",
+        "part_number": 43308,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 227,
+        "name": "EN1",
+        "part_number": 43308,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 228,
+        "name": "DR3",
+        "part_number": 43308,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 229,
+        "name": "CU1",
+        "part_number": 43309,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 230,
+        "name": "EB1",
+        "part_number": 43309,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 231,
+        "name": "EB1",
+        "part_number": 43309,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 232,
+        "name": "EB1",
+        "part_number": 43309,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 233,
+        "name": "EB1",
+        "part_number": 43309,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 234,
+        "name": "DR1",
+        "part_number": 43309,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 235,
+        "name": "CU1",
+        "part_number": 43310,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 236,
+        "name": "EB1",
+        "part_number": 43310,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 237,
+        "name": "EB1",
+        "part_number": 43310,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 238,
+        "name": "EB1",
+        "part_number": 43310,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 239,
+        "name": "EB1",
+        "part_number": 43310,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 240,
+        "name": "DR1",
+        "part_number": 43310,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 241,
+        "name": "CU1",
+        "part_number": 43311,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 242,
+        "name": "DR1",
+        "part_number": 43311,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 243,
+        "name": "CU1",
+        "part_number": 43312,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 244,
+        "name": "EB1",
+        "part_number": 43312,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 245,
+        "name": "EB1",
+        "part_number": 43312,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 246,
+        "name": "EB1",
+        "part_number": 43312,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 247,
+        "name": "EB1",
+        "part_number": 43312,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 248,
+        "name": "DR1",
+        "part_number": 43312,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 249,
+        "name": "CU1",
+        "part_number": 43313,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 250,
+        "name": "EB1",
+        "part_number": 43313,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 251,
+        "name": "EB1",
+        "part_number": 43313,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 252,
+        "name": "EB1",
+        "part_number": 43313,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 253,
+        "name": "EB1",
+        "part_number": 43313,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 254,
+        "name": "DR1",
+        "part_number": 43313,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 255,
+        "name": "CU1",
+        "part_number": 43314,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 256,
+        "name": "DR1",
+        "part_number": 43314,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 257,
+        "name": "CU1",
+        "part_number": 43315,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 258,
+        "name": "CU1",
+        "part_number": 43316,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 259,
+        "name": "EB1",
+        "part_number": 43316,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 260,
+        "name": "EB1",
+        "part_number": 43316,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 261,
+        "name": "EB1",
+        "part_number": 43316,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 262,
+        "name": "EB1",
+        "part_number": 43316,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 263,
+        "name": "DR1",
+        "part_number": 43316,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 264,
+        "name": "CU1",
+        "part_number": 43317,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 265,
+        "name": "EB1",
+        "part_number": 43317,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 266,
+        "name": "EB1",
+        "part_number": 43317,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 267,
+        "name": "EB1",
+        "part_number": 43317,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 268,
+        "name": "EB1",
+        "part_number": 43317,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 269,
+        "name": "DR1",
+        "part_number": 43317,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 270,
+        "name": "CU1",
+        "part_number": 43318,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 271,
+        "name": "EB1",
+        "part_number": 43318,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 272,
+        "name": "EB1",
+        "part_number": 43318,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 273,
+        "name": "EB1",
+        "part_number": 43318,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 274,
+        "name": "EB1",
+        "part_number": 43318,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 275,
+        "name": "DR1",
+        "part_number": 43318,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 276,
+        "name": "CU1",
+        "part_number": 43319,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 277,
+        "name": "EB1",
+        "part_number": 43319,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 278,
+        "name": "EB1",
+        "part_number": 43319,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 279,
+        "name": "EB1",
+        "part_number": 43319,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 280,
+        "name": "EB1",
+        "part_number": 43319,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 281,
+        "name": "DR1",
+        "part_number": 43319,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 282,
+        "name": "CU1",
+        "part_number": 43320,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 283,
+        "name": "EB1",
+        "part_number": 43320,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 284,
+        "name": "EB1",
+        "part_number": 43320,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 285,
+        "name": "EB1",
+        "part_number": 43320,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 286,
+        "name": "EB1",
+        "part_number": 43320,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 287,
+        "name": "DR1",
+        "part_number": 43320,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 288,
+        "name": "CU1",
+        "part_number": 43321,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 289,
+        "name": "EB1",
+        "part_number": 43321,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 290,
+        "name": "EB1",
+        "part_number": 43321,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 291,
+        "name": "EB1",
+        "part_number": 43321,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 292,
+        "name": "EB1",
+        "part_number": 43321,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 293,
+        "name": "DR1",
+        "part_number": 43321,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 294,
+        "name": "CU1",
+        "part_number": 43322,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 295,
+        "name": "EB1",
+        "part_number": 43322,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 296,
+        "name": "EB1",
+        "part_number": 43322,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 297,
+        "name": "EB1",
+        "part_number": 43322,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 298,
+        "name": "EB1",
+        "part_number": 43322,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 299,
+        "name": "DR1",
+        "part_number": 43322,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 300,
+        "name": "CU1",
+        "part_number": 43323,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 301,
+        "name": "CU1",
+        "part_number": 43324,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 302,
+        "name": "EB1",
+        "part_number": 43324,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 303,
+        "name": "EB1",
+        "part_number": 43324,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 304,
+        "name": "EB1",
+        "part_number": 43324,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 305,
+        "name": "EB1",
+        "part_number": 43324,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 306,
+        "name": "DR1",
+        "part_number": 43324,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 307,
+        "name": "CU1",
+        "part_number": 43325,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 308,
+        "name": "EB1",
+        "part_number": 43325,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 309,
+        "name": "EB1",
+        "part_number": 43325,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 310,
+        "name": "EB1",
+        "part_number": 43325,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 311,
+        "name": "EB1",
+        "part_number": 43325,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 312,
+        "name": "DR1",
+        "part_number": 43325,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 313,
+        "name": "CU1",
+        "part_number": 43326,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 314,
+        "name": "EN1",
+        "part_number": 43326,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 315,
+        "name": "DR3",
+        "part_number": 43326,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 316,
+        "name": "CU1",
+        "part_number": 43327,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 317,
+        "name": "EB1",
+        "part_number": 43327,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 318,
+        "name": "EB1",
+        "part_number": 43327,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 319,
+        "name": "EB1",
+        "part_number": 43327,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 320,
+        "name": "EB1",
+        "part_number": 43327,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 321,
+        "name": "DR1",
+        "part_number": 43327,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 322,
+        "name": "CU1",
+        "part_number": 43328,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 323,
+        "name": "EB1",
+        "part_number": 43328,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 324,
+        "name": "EB1",
+        "part_number": 43328,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 325,
+        "name": "EB1",
+        "part_number": 43328,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 326,
+        "name": "EB1",
+        "part_number": 43328,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 327,
+        "name": "DR1",
+        "part_number": 43328,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 328,
+        "name": "CU1",
+        "part_number": 43329,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 329,
+        "name": "EN1",
+        "part_number": 43329,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 330,
+        "name": "DR3",
+        "part_number": 43329,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 331,
+        "name": "CU1",
+        "part_number": 43330,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 332,
+        "name": "EB1",
+        "part_number": 43330,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 333,
+        "name": "EB1",
+        "part_number": 43330,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 334,
+        "name": "EB1",
+        "part_number": 43330,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 335,
+        "name": "EB1",
+        "part_number": 43330,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 336,
+        "name": "DR1",
+        "part_number": 43330,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 337,
+        "name": "CU1",
+        "part_number": 43331,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 338,
+        "name": "EB1",
+        "part_number": 43331,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 339,
+        "name": "EB1",
+        "part_number": 43331,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 340,
+        "name": "EB1",
+        "part_number": 43331,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 341,
+        "name": "EB1",
+        "part_number": 43331,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 342,
+        "name": "DR1",
+        "part_number": 43331,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 343,
+        "name": "CU1",
+        "part_number": 43332,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 344,
+        "name": "EB1",
+        "part_number": 43332,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 345,
+        "name": "EB1",
+        "part_number": 43332,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 346,
+        "name": "EB1",
+        "part_number": 43332,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 347,
+        "name": "EB1",
+        "part_number": 43332,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 348,
+        "name": "DR1",
+        "part_number": 43332,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 349,
+        "name": "CU1",
+        "part_number": 43333,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 350,
+        "name": "EB1",
+        "part_number": 43333,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 351,
+        "name": "EB1",
+        "part_number": 43333,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 352,
+        "name": "EB1",
+        "part_number": 43333,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 353,
+        "name": "EB1",
+        "part_number": 43333,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 354,
+        "name": "DR1",
+        "part_number": 43333,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 355,
+        "name": "CU1",
+        "part_number": 43334,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 356,
+        "name": "EB1",
+        "part_number": 43334,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 357,
+        "name": "EB1",
+        "part_number": 43334,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 358,
+        "name": "EB1",
+        "part_number": 43334,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 359,
+        "name": "EB1",
+        "part_number": 43334,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 360,
+        "name": "DR1",
+        "part_number": 43334,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 361,
+        "name": "CU1",
+        "part_number": 43335,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 362,
+        "name": "EB1",
+        "part_number": 43335,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 363,
+        "name": "EB1",
+        "part_number": 43335,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 364,
+        "name": "EB1",
+        "part_number": 43335,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 365,
+        "name": "EB1",
+        "part_number": 43335,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 366,
+        "name": "DR1",
+        "part_number": 43335,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 367,
+        "name": "CU1",
+        "part_number": 43336,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 368,
+        "name": "EB1",
+        "part_number": 43336,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 369,
+        "name": "EB1",
+        "part_number": 43336,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 370,
+        "name": "EB1",
+        "part_number": 43336,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 371,
+        "name": "EB1",
+        "part_number": 43336,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 372,
+        "name": "DR1",
+        "part_number": 43336,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 373,
+        "name": "CU1",
+        "part_number": 43337,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 374,
+        "name": "EB1",
+        "part_number": 43337,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 375,
+        "name": "EB1",
+        "part_number": 43337,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 376,
+        "name": "EB1",
+        "part_number": 43337,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 377,
+        "name": "EB1",
+        "part_number": 43337,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 378,
+        "name": "DR1",
+        "part_number": 43337,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 379,
+        "name": "CU1",
+        "part_number": 43338,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 380,
+        "name": "EB1",
+        "part_number": 43338,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 381,
+        "name": "EB1",
+        "part_number": 43338,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 382,
+        "name": "EB1",
+        "part_number": 43338,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 383,
+        "name": "EB1",
+        "part_number": 43338,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 384,
+        "name": "DR1",
+        "part_number": 43338,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 385,
+        "name": "CU1",
+        "part_number": 43339,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 386,
+        "name": "CU1",
+        "part_number": 43340,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 387,
+        "name": "EB1",
+        "part_number": 43340,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 388,
+        "name": "EB1",
+        "part_number": 43340,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 389,
+        "name": "EB1",
+        "part_number": 43340,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 390,
+        "name": "EB1",
+        "part_number": 43340,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 391,
+        "name": "DR1",
+        "part_number": 43340,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 392,
+        "name": "CU1",
+        "part_number": 43341,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 393,
+        "name": "EB1",
+        "part_number": 43341,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 394,
+        "name": "EB1",
+        "part_number": 43341,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 395,
+        "name": "EB1",
+        "part_number": 43341,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 396,
+        "name": "EB1",
+        "part_number": 43341,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 397,
+        "name": "DR1",
+        "part_number": 43341,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 398,
+        "name": "CU1",
+        "part_number": 43342,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 399,
+        "name": "EB1",
+        "part_number": 43342,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 400,
+        "name": "EB1",
+        "part_number": 43342,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 401,
+        "name": "EB1",
+        "part_number": 43342,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 402,
+        "name": "EB1",
+        "part_number": 43342,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 403,
+        "name": "DR1",
+        "part_number": 43342,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 404,
+        "name": "CU1",
+        "part_number": 43343,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 405,
+        "name": "EB1",
+        "part_number": 43343,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 406,
+        "name": "EB1",
+        "part_number": 43343,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 407,
+        "name": "EB1",
+        "part_number": 43343,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 408,
+        "name": "EB1",
+        "part_number": 43343,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 409,
+        "name": "DR1",
+        "part_number": 43343,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 410,
+        "name": "CU1",
+        "part_number": 43344,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 411,
+        "name": "EB1",
+        "part_number": 43344,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 412,
+        "name": "EB1",
+        "part_number": 43344,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 413,
+        "name": "EB1",
+        "part_number": 43344,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 414,
+        "name": "EB1",
+        "part_number": 43344,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 415,
+        "name": "DR1",
+        "part_number": 43344,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 416,
+        "name": "CU1",
+        "part_number": 43345,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 417,
+        "name": "EB1",
+        "part_number": 43345,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 418,
+        "name": "EB1",
+        "part_number": 43345,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 419,
+        "name": "EB1",
+        "part_number": 43345,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 420,
+        "name": "EB1",
+        "part_number": 43345,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 421,
+        "name": "DR1",
+        "part_number": 43345,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 422,
+        "name": "CU1",
+        "part_number": 43346,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 423,
+        "name": "CU1",
+        "part_number": 43347,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 424,
+        "name": "EB1",
+        "part_number": 43347,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 425,
+        "name": "EB1",
+        "part_number": 43347,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 426,
+        "name": "EB1",
+        "part_number": 43347,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 427,
+        "name": "EB1",
+        "part_number": 43347,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 428,
+        "name": "DR1",
+        "part_number": 43347,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 429,
+        "name": "CU1",
+        "part_number": 43348,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 430,
+        "name": "EB1",
+        "part_number": 43348,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 431,
+        "name": "EB1",
+        "part_number": 43348,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 432,
+        "name": "EB1",
+        "part_number": 43348,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 433,
+        "name": "EB1",
+        "part_number": 43348,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 434,
+        "name": "DR1",
+        "part_number": 43348,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 435,
+        "name": "CU1",
+        "part_number": 43349,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 436,
+        "name": "EB1",
+        "part_number": 43349,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 437,
+        "name": "EB1",
+        "part_number": 43349,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 438,
+        "name": "EB1",
+        "part_number": 43349,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 439,
+        "name": "EB1",
+        "part_number": 43349,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 440,
+        "name": "DR1",
+        "part_number": 43349,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 441,
+        "name": "CU1",
+        "part_number": 43350,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 442,
+        "name": "EB1",
+        "part_number": 43350,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 443,
+        "name": "EB1",
+        "part_number": 43350,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 444,
+        "name": "EB1",
+        "part_number": 43350,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 445,
+        "name": "EB1",
+        "part_number": 43350,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 446,
+        "name": "DR1",
+        "part_number": 43350,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 447,
+        "name": "CU1",
+        "part_number": 43351,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 448,
+        "name": "EB1",
+        "part_number": 43351,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 449,
+        "name": "EB1",
+        "part_number": 43351,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 450,
+        "name": "EB1",
+        "part_number": 43351,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 451,
+        "name": "EB1",
+        "part_number": 43351,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 452,
+        "name": "DR1",
+        "part_number": 43351,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 453,
+        "name": "CU1",
+        "part_number": 43352,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 454,
+        "name": "EB1",
+        "part_number": 43352,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 455,
+        "name": "EB1",
+        "part_number": 43352,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 456,
+        "name": "EB1",
+        "part_number": 43352,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 457,
+        "name": "EB1",
+        "part_number": 43352,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 458,
+        "name": "DR1",
+        "part_number": 43352,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 459,
+        "name": "CU1",
+        "part_number": 43353,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 460,
+        "name": "EB1",
+        "part_number": 43353,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 461,
+        "name": "EB1",
+        "part_number": 43353,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 462,
+        "name": "EB1",
+        "part_number": 43353,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 463,
+        "name": "EB1",
+        "part_number": 43353,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 464,
+        "name": "DR1",
+        "part_number": 43353,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 465,
+        "name": "CU1",
+        "part_number": 43354,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 466,
+        "name": "EB1",
+        "part_number": 43354,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 467,
+        "name": "EB1",
+        "part_number": 43354,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 468,
+        "name": "EB1",
+        "part_number": 43354,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 469,
+        "name": "EB1",
+        "part_number": 43354,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 470,
+        "name": "DR1",
+        "part_number": 43354,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 471,
+        "name": "CU1",
+        "part_number": 43355,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 472,
+        "name": "EB1",
+        "part_number": 43355,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 473,
+        "name": "EB1",
+        "part_number": 43355,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 474,
+        "name": "EB1",
+        "part_number": 43355,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 475,
+        "name": "EB1",
+        "part_number": 43355,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 476,
+        "name": "DR1",
+        "part_number": 43355,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 477,
+        "name": "CU1",
+        "part_number": 43356,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 478,
+        "name": "EB1",
+        "part_number": 43356,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 479,
+        "name": "EB1",
+        "part_number": 43356,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 480,
+        "name": "EB1",
+        "part_number": 43356,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 481,
+        "name": "EB1",
+        "part_number": 43356,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 482,
+        "name": "DR1",
+        "part_number": 43356,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 483,
+        "name": "CU1",
+        "part_number": 43357,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 484,
+        "name": "EB1",
+        "part_number": 43357,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 485,
+        "name": "EB1",
+        "part_number": 43357,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 486,
+        "name": "EB1",
+        "part_number": 43357,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 487,
+        "name": "EB1",
+        "part_number": 43357,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 488,
+        "name": "DR1",
+        "part_number": 43357,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 489,
+        "name": "CU1",
+        "part_number": 43358,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 490,
+        "name": "EB1",
+        "part_number": 43358,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 491,
+        "name": "EB1",
+        "part_number": 43358,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 492,
+        "name": "EB1",
+        "part_number": 43358,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 493,
+        "name": "EB1",
+        "part_number": 43358,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 494,
+        "name": "DR1",
+        "part_number": 43358,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 495,
+        "name": "CU1",
+        "part_number": 43359,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 496,
+        "name": "EB1",
+        "part_number": 43359,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 497,
+        "name": "EB1",
+        "part_number": 43359,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 498,
+        "name": "EB1",
+        "part_number": 43359,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 499,
+        "name": "EB1",
+        "part_number": 43359,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 500,
+        "name": "DR1",
+        "part_number": 43359,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 501,
+        "name": "CU1",
+        "part_number": 43360,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 502,
+        "name": "CU1",
+        "part_number": 43361,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 503,
+        "name": "EB1",
+        "part_number": 43361,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 504,
+        "name": "EB1",
+        "part_number": 43361,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 505,
+        "name": "EB1",
+        "part_number": 43361,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 506,
+        "name": "EB1",
+        "part_number": 43361,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 507,
+        "name": "DR1",
+        "part_number": 43361,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 508,
+        "name": "CU1",
+        "part_number": 43362,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 509,
+        "name": "EB1",
+        "part_number": 43362,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 510,
+        "name": "EB1",
+        "part_number": 43362,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 511,
+        "name": "EB1",
+        "part_number": 43362,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 512,
+        "name": "EB1",
+        "part_number": 43362,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 513,
+        "name": "DR1",
+        "part_number": 43362,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 514,
+        "name": "CU1",
+        "part_number": 43363,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 515,
+        "name": "EB1",
+        "part_number": 43363,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 516,
+        "name": "EB1",
+        "part_number": 43363,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 517,
+        "name": "EB1",
+        "part_number": 43363,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 518,
+        "name": "EB1",
+        "part_number": 43363,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 519,
+        "name": "DR1",
+        "part_number": 43363,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 520,
+        "name": "CU1",
+        "part_number": 43364,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 521,
+        "name": "CU1",
+        "part_number": 43365,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 522,
+        "name": "EB1",
+        "part_number": 43365,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 523,
+        "name": "EB1",
+        "part_number": 43365,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 524,
+        "name": "EB1",
+        "part_number": 43365,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 525,
+        "name": "EB1",
+        "part_number": 43365,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 526,
+        "name": "DR1",
+        "part_number": 43365,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 527,
+        "name": "CU1",
+        "part_number": 43366,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 528,
+        "name": "EB1",
+        "part_number": 43366,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 529,
+        "name": "EB1",
+        "part_number": 43366,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 530,
+        "name": "EB1",
+        "part_number": 43366,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 531,
+        "name": "EB1",
+        "part_number": 43366,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 532,
+        "name": "DR1",
+        "part_number": 43366,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 533,
+        "name": "CU1",
+        "part_number": 43367,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 534,
+        "name": "EB1",
+        "part_number": 43367,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "",
+        "id": 535,
+        "name": "EB1",
+        "part_number": 43367,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 536,
+        "name": "EB1",
+        "part_number": 43367,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 537,
+        "name": "EB1",
+        "part_number": 43367,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 538,
+        "name": "DR1",
+        "part_number": 43367,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 539,
+        "name": "CU1",
+        "part_number": 43368,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 540,
+        "name": "EB1",
+        "part_number": 43368,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_3,0_Weiss",
+        "id": 541,
+        "name": "EB1",
+        "part_number": 43368,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 542,
+        "name": "EB1",
+        "part_number": 43368,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 543,
+        "name": "EB1",
+        "part_number": 43368,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 544,
+        "name": "DR1",
+        "part_number": 43368,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 545,
+        "name": "CU1",
+        "part_number": 43369,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "front",
+        "edge_value": "ABS_2,0_Weiss",
+        "id": 546,
+        "name": "EB1",
+        "part_number": 43369,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "back",
+        "edge_value": "ABS_1,0_Weiss",
+        "id": 547,
+        "name": "EB1",
+        "part_number": 43369,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "left",
+        "edge_value": "",
+        "id": 548,
+        "name": "EB1",
+        "part_number": 43369,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": "right",
+        "edge_value": "",
+        "id": 549,
+        "name": "EB1",
+        "part_number": 43369,
+        "status": "outstanding"
+    },
+    {
+        "description": null,
+        "edge_position": null,
+        "edge_value": null,
+        "id": 550,
+        "name": "DR1",
+        "part_number": 43369,
+        "status": "outstanding"
+    }
+]

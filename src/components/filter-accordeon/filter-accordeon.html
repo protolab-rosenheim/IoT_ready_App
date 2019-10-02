@@ -1,0 +1,17 @@
+<ion-list-header>
+  <ion-label [class.active]="isActive()">
+    {{getDisplayText()}}
+  </ion-label>
+  <ion-icon *ngIf="isActive()" (click)="resetFilters()" item-end name="close-circle" class="active"></ion-icon>
+</ion-list-header>
+
+<ion-grid *ngIf="open">
+  <ion-row *ngFor="let row of rows">
+    <ion-col dynamic-col="{{12/columnsCount}}" *ngFor="let option of filterOptions | slice:row.startIndex:row.endIndex">
+      <ion-item text-wrap>
+        <ion-label>{{option.name}}</ion-label>
+        <ion-checkbox [(ngModel)]="option.isSelected" (ionChange)="emitChanges()"></ion-checkbox>
+      </ion-item>
+    </ion-col>
+  </ion-row>
+</ion-grid>

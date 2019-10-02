@@ -1,0 +1,22 @@
+<div class="hidden-md-down">
+  <div class="title">
+    {{title}}
+  </div>
+  <div class="line"></div>
+  <div class="double-circle"></div>
+</div>
+
+<ul class="navigation">
+  <button ion-button outline icon-end color="light" (click)="emitReorder()" *ngIf="buttonTextReorder">
+    {{buttonTextReorder}}
+  </button>
+  <button ion-button outline icon-end color="light" (click)="emitCarriage()" *ngIf="buttonTextCarriage">
+    {{buttonTextCarriage}}
+  </button>
+  <button ion-button outline icon-end color="light" (click)="emitShredder()" *ngIf="buttonTextShredder">
+    {{buttonTextShredder}}
+  </button>
+  <button ion-button outline icon-end color="light" (click)="emitAssembled()" *ngIf="buttonTextAssembled">
+    {{buttonTextAssembled}}
+  </button>
+</ul>

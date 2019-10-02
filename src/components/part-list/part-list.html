@@ -1,0 +1,40 @@
+<ion-grid class="full-height no-bottom-padding">
+  <ion-row class="headline">
+    <ion-col col-1 style="text-align: center">
+      <ion-checkbox [checked]="allPartsSelected" (click)="toggleSelectAll()"></ion-checkbox>
+    </ion-col>
+    <ion-col col-2>
+      ID
+    </ion-col>
+    <ion-col col-3>
+      Position
+    </ion-col>
+    <ion-col>
+      Bezeichnung
+    </ion-col>
+    <ion-col col-1>
+
+    </ion-col>
+  </ion-row>
+  <ion-scroll scrollY="true" class="full-height">
+    <ion-row *ngFor="let part of shownParts" [class.selected]="isSelected(part)" (click)="toggleSelection(part)">
+      <ion-col id="checkboxcolumn" col-1 draggable="true" (dragstart)="startDraggingCheckbox($event, part)" (dragenter)="onDragEnter($event, part)"
+        style="text-align: center">
+        <ion-checkbox [checked]="isSelected(part)" (click)="toggleSelection(part)"></ion-checkbox>
+      </ion-col>
+      <ion-col col-2 (dragstart)="startDraggingItems($event, part)" draggable="true" (dragenter)="onDragEnter($event, part)">
+        {{part.part_number}}
+      </ion-col>
+      <ion-col col-3 (dragstart)="startDraggingItems($event, part)" draggable="true" (dragenter)="onDragEnter($event, part)">
+        {{part.part_mapping}}
+      </ion-col>
+      <ion-col (dragstart)="startDraggingItems($event, part)" draggable="true" (dragenter)="onDragEnter($event, part)">
+        {{part.description}}
+      </ion-col>
+      <ion-col col-1 (dragstart)="startDraggingItems($event, part)" draggable="true" (dragenter)="onDragEnter($event, part)">
+        <ion-icon *ngIf="isSelected(part)" (dragstart)="startDraggingItems($event, part)" draggable="true" name="menu"
+          (dragenter)="onDragEnter($event, part)"></ion-icon>
+      </ion-col>
+    </ion-row>
+  </ion-scroll>
+</ion-grid>

@@ -1,0 +1,18 @@
+level-bar {
+    .progress-outer {
+        margin: 10px 2%;
+        padding: 3px;
+        text-align: center;
+        background-color: map-get($colors, light);
+        border: $border;
+        color: #fff;
+        border-radius: 20px;
+    }
+    .progress-inner {
+        min-width: 40%;
+        white-space: nowrap;
+        overflow: hidden;
+        border-radius: 20px;
+        background-color: map-get($colors, primary);
+    }
+}

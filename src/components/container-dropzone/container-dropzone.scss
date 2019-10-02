@@ -1,0 +1,20 @@
+container-dropzone {
+    display: block;
+    border: $border;
+    margin: 4px;
+    .item-inner {
+        border-bottom: 0px !important;
+    }
+    .item {
+        min-width: 200px;
+        height: 100%;
+    }
+    ion-item * {
+        // Prevent pointer events to allow smooth dragover effect on ion-item
+        // See https://stackoverflow.com/a/18582960/5730444
+        pointer-events: none;
+    }
+    .dragover {
+        background-color: #FFE6C2;
+    }
+}

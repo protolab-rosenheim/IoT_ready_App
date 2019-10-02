@@ -1,0 +1,75 @@
+<ion-header>
+  <proto-header title="Bekanten"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+  <sort-box [sortBy]="sortByCriteria" (onSortingChanged)="onSortingChanged($event)"></sort-box>
+
+  <div class="container">
+    <div class="big-width">
+      <div class="columns-nowrap">
+        <ion-row class="headline">
+          <ion-col col-1>
+            <ion-checkbox [checked]="allPartsSelected" (click)="toggleSelectAll()"></ion-checkbox>
+          </ion-col>
+          <ion-col col-2>
+            Teilenr.
+          </ion-col>
+          <ion-col col-3 class="hidden-md-down">
+            Beschreibung
+          </ion-col>
+          <ion-col col-3>
+            Maße
+          </ion-col>
+          <ion-col>
+            Kantenwert
+          </ion-col>
+        </ion-row>
+        <div class="scroll-container">
+          <ion-row *ngFor="let part of outstandingParts">
+            <ion-col col-1 draggable="true" id="checkboxcolumn" (dragstart)="startDraggingCheckbox($event, part)"
+              (dragenter)="onDragEnter($event, part)">
+              <ion-checkbox [checked]="isSelected(part)" (click)="toggleSelection(part)"></ion-checkbox>
+            </ion-col>
+            <ion-col col-2 (click)="toggleSelection(part)">
+              {{ part.part_number }}
+            </ion-col>
+            <ion-col col-3 (click)="toggleSelection(part)" class="hidden-md-down">
+              {{ part.description }}
+            </ion-col>
+            <ion-col col-3 (click)="toggleSelection(part)">
+              {{part.finished_length}}x{{part.finished_width}}x{{part.finished_thickness}}
+            </ion-col>
+            <ion-col (click)="toggleSelection(part)">
+              <div *ngFor="let value of partNumbertoEdgeValues[part.part_number]">{{value}}</div>
+            </ion-col>
+          </ion-row>
+        </div>
+      </div>
+    </div>
+    <div class="small-width">
+      <button ion-button [disabled]="selectedParts.length===0" block (click)="illuminateAllSlots($event)">
+        Ausgewählte Teile
+        <br> im Wagen anzeigen</button>
+      <button ion-button [disabled]="(!illuminateChecker)" block (click)="changeSelectedPartStatusToFinished($event)">Ausgewählte
+        Teile
+        <br> fertig melden</button>
+      <ion-card class="hidden-md-down">
+        <ion-card-content>
+          <p>Anzahl der Teile im Wagen: {{allPartsNumberOnBoard}}</p>
+          <p>Anzahl der zu bearbeitenden Teile: {{outstandingParts.length}}</p>
+          <p>Anzahl der ausgewählten Teile: {{selectedParts.length}}</p>
+          <p>Kantenvorschau:</p>
+          <p *ngFor="let edge of allEdgesNames">
+            {{edge}}
+          </p>
+        </ion-card-content>
+      </ion-card>
+    </div>
+  </div>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Teilefertigung" buttonTextCarriage="Wagen abholen" (buttonCarriagePressed)="onFetchCarriageClick($event)"
+    buttonTextReorder="Teil nachbestellen" (buttonReorderPressed)="onReorderPartClick($event)"></proto-footer>
+</ion-footer>

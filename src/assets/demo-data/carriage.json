@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "carriage_name": "carriage_01",
+        "carriage_status": "in use",
+        "current_location": "CU1",
+        "next_location": "DR1",
+        "destacking_mode": "SimpleDistribute"
+    }
+]

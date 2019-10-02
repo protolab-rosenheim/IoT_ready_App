@@ -1,0 +1,36 @@
+<ion-header>
+  <proto-header title="Position {{group.part_mapping}}"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+
+  <ion-item-group>
+    <ion-item-divider color="light">Teile</ion-item-divider>
+    <div class="container">
+      <div class="columns">
+        <ion-item ion-item *ngFor="let part of group.parts">
+          {{ part.part_number }} {{ part.description }}
+        </ion-item>
+      </div>
+      <div class="three-container hidden-md-down">
+        <three-base #three cameraDistance="1500"></three-base>
+        <button (click)="toggleFrontVisibility($event)" full ion-button>
+          {{ hideFront ? 'Fronten ausblenden' : 'Fronten einblenden' }}
+        </button>
+      </div>
+    </div>
+
+  </ion-item-group>
+
+  <ion-item-group *ngIf="coatings?.length > 0">
+    <ion-item-divider color="light">Beschläge</ion-item-divider>
+    <ion-item ion-item *ngFor="let coating of coatings">
+      {{coating.count}} x {{ coating.text_short }}
+    </ion-item>
+  </ion-item-group>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Montage" buttonTextAssembled="Fertig montiert" (buttonAssemblyPressed)="onDone($event)" buttonTextReorder="Teil nachbestellen"
+    (buttonReorderPressed)="onReorderPartClick($event)"></proto-footer>
+</ion-footer>

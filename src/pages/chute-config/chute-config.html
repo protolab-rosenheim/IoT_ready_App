@@ -1,0 +1,22 @@
+<ion-header>
+  <proto-header title="Konfigurieren" subTitle="{{tower.name}}"></proto-header>
+</ion-header>
+
+<ion-content no-bounce no-padding>
+  <div class="align-center">
+    <button ion-button (click)="scanSlot()" [disabled]="scannedSlot !== undefined">
+      <ion-icon name="custom-barcodescanner"></ion-icon>
+      1. Barcode unter der Schütte scannen
+    </button>
+  </div>
+  <div class="align-center">
+    <button ion-button (click)="scanCoating()" [disabled]="scannedSlot === undefined">
+      <ion-icon name="custom-barcodescanner"></ion-icon>
+      2. Barcode auf der Schütte scannen
+    </button>
+  </div>
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Montage"></proto-footer>
+</ion-footer>

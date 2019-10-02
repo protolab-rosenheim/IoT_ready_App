@@ -1,0 +1,143 @@
+// http://ionicframework.com/docs/theming/
+// App Global Sass
+// --------------------------------------------------
+// Put style rules here that you want to apply globally. These
+// styles are for the entire app and not just one component.
+// Additionally, this file can be also used as an entry point
+// to import other Sass files to be included in the output CSS.
+//
+// Shared Sass variables, which can be used to adjust Ionic's
+// default Sass variables, belong in "theme/variables.scss".
+//
+// To declare rules for a specific mode, create a child rule
+// for the .md, .ios, or .wp mode classes. The mode class is
+// automatically applied to the <body> element in the app.
+// Repsonsivness classes
+// --------------------------------------------------
+@media (max-width: 767px) {
+    .hidden-md-down {
+        display: none !important;
+    }
+    .scroll-content {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+}
+
+// Reusable classes
+// --------------------------------------------------
+.headline {
+    font-weight: bold;
+    border-bottom: 0.55px solid #c8c7cc;
+}
+
+.align-center {
+    text-align: center;
+    margin: 12px;
+}
+
+.align-end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-wrap .custom-item {
+    flex: 1 0 inherit;
+    box-sizing: border-box;
+    width: calc(100%);
+    max-width: calc(100%);
+}
+
+@media (min-width: 575px) {
+    .flex-wrap .custom-item {
+        width: calc(50%);
+        max-width: calc(50%);
+    }
+}
+
+@media (min-width: 835px) {
+    .flex-wrap .custom-item {
+        width: calc(33.33333%);
+        max-width: calc(33.33333%);
+    }
+}
+
+// sort-box classes
+// --------------------------------------------------
+sort-box>ion-navbar.toolbar {
+    // Our sortbox should still be full width, so use a negative margin
+    // and add double the margin to width
+    margin-left: -$content-padding;
+    width: calc(100% + 2* #{$content-padding});
+}
+
+// Modal classes
+// --------------------------------------------------
+.next-destination-modal .modal-wrapper {
+    $next-destination-modal-height: 275px;
+    height: $next-destination-modal-height;
+    top: calc(50% - (#{$next-destination-modal-height}/2));
+}
+
+.sort-box-modal .modal-wrapper {
+    $sort-box-modal-height: 390px;
+    height: $sort-box-modal-height;
+    top: calc(50% - (#{$sort-box-modal-height}/2));
+}
+
+@media (max-width: 767px) {
+    .modal-wrapper {
+        height: 100% !important;
+    }
+}
+
+// Custom App Icons
+// --------------------------------------------------
+ion-icon {
+    &[class*="custom-"] {
+        mask-size: contain;
+        mask-position: 50% 50%;
+        mask-repeat: no-repeat;
+        background: currentColor;
+        width: 1.4em;
+        height: 1.4em;
+    }
+    &[class*="custom-Flachwagen"] {
+        mask-image: url(../assets/icon/flatwaggon.svg);
+    }
+    &[class*="custom-Container"] {
+        mask-image: url(../assets/icon/container.svg);
+    }
+    &[class*="custom-barcodescanner"] {
+        mask-image: url(../assets/icon/barcodescanner.svg);
+    }
+    &[class*="custom-drill"] {
+        mask-image: url(../assets/icon/Bohren_Fraesen.svg);
+    }
+    &[class*="custom-edge"] {
+        mask-image: url(../assets/icon/KAM.svg);
+    }
+    &[class*="custom-config"] {
+        mask-image: url(../assets/icon/Konfigurator.svg);
+    }
+    &[class*="custom-assembly"] {
+        mask-image: url(../assets/icon/Montage.svg);
+    }
+    &[class*="custom-saw"] {
+        mask-image: url(../assets/icon/Saege.svg);
+    }
+    &[class*="custom-shredder"] {
+        mask-image: url(../assets/icon/Schredder.svg);
+    }
+    &[class*="custom-robot"] {
+        mask-image: url(../assets/icon/Roboter.svg);
+    }
+    &[class*="custom-glove"] {
+        mask-image: url(../assets/icon/Handschuh.svg);
+    }
+}

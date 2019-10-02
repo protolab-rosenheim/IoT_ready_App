@@ -1,0 +1,24 @@
+<ion-header>
+  <proto-header title="Bohren / Fräsen"></proto-header>
+</ion-header>
+
+<ion-content padding-horizontal no-bounce>
+
+  <sort-box [sortBy]="sortByCriteria" (onSortingChanged)="onSortingChanged($event)"></sort-box>
+
+  <ion-scroll scrollY="true">
+    <ion-list no-border>
+      <number-box [numberToDisplay]="outstandingParts?.length"></number-box>
+      <button ion-item [color]="i == selectedIndex ? 'secondary': null" detail-none *ngFor="let part of outstandingParts; let i = index"
+        (click)="onSelect(part, i)">
+        {{ part.part_number }} {{ part.description }} {{part.finished_length}}x{{part.finished_width}}x{{part.finished_thickness}}
+      </button>
+    </ion-list>
+  </ion-scroll>
+
+</ion-content>
+
+<ion-footer>
+  <proto-footer title="Teilefertigung" buttonTextCarriage="Wagen abholen" (buttonCarriagePressed)="onFetchCarriageClick($event)"
+    buttonTextReorder="Teil nachbestellen" (buttonReorderPressed)="onReorderPartClick($event)"></proto-footer>
+</ion-footer>

@@ -1,0 +1,16 @@
+part-list {
+    height: 100%;
+    width: 100%;
+    .full-height {
+        height: 100%;
+    }
+    .selected {
+        background-color: #FFE6C2;
+    }
+    .no-bottom-padding {
+        padding-bottom: 0px;
+    }
+    ion-scroll>div.scroll-content {
+        padding: 0px !important;
+    }
+}
