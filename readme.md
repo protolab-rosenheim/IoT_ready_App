@@ -1,5 +1,10 @@
 # IoT Ready Kit App
 
+### Mitwirkende
+- [Martin Neumayer](https://github.com/orgs/protolab-rosenheim/people/swifmaneum)
+- [Josef Baudisch](https://github.com/orgs/protolab-rosenheim/people/joe-baudisch)
+- [Michael List](https://github.com/orgs/protolab-rosenheim/people/Michael-List)
+
 ### Installieren und ausführen
 
 Eine aktuelle Version von [Node.js](https://nodejs.org/) ist erforderlich.
